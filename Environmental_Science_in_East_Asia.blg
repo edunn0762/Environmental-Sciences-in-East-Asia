@@ -1,0 +1,134 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Environmental_Science_in_East_Asia.aux
+The style file: ecology.bst
+Reallocated field_info (elt_size=4) to 15032 items from 5000.
+Database file #1: References.bib
+Warning--entry type for "liu_documentary" isn't style-file defined
+--line 1542 of file References.bib
+Warning--entry type for "Macan-Maker.2008" isn't style-file defined
+--line 1583 of file References.bib
+Warning--entry type for "remote_earth" isn't style-file defined
+--line 1667 of file References.bib
+Warning--entry type for "Goldman.2019" isn't style-file defined
+--line 4720 of file References.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Database file #2: marctest.bib
+Warning--I didn't find a database entry for "emanuel2006hurricane"
+Warning--to sort, need author, editor, or key in cabi2021
+Warning--to sort, need author or key in theeconomist
+Warning--to sort, need author or key in stockholmresiliencecentre
+Warning--to sort, need author or key in epi
+Warning--to sort, need author or key in 
+Warning--to sort, need author or key in bbc_news_2019
+Warning--to sort, need author or key in worldbank_blog
+Warning--empty author in 
+Warning--empty year in ; set to ????
+Warning--empty title in 
+Warning--empty journal in 
+Warning--empty year in worldbank_blog; set to ????
+Warning--empty year in stockholmresiliencecentre; set to ????
+Warning--empty author and editor in cabi2021
+Warning--empty year in acs; set to ????
+Warning--empty chapter and pages in acs
+Warning--empty publisher in acs
+Warning--empty year in aquatech; set to ????
+Warning--empty journal in assessment2002united
+Warning--empty year in bown; set to ????
+Warning--empty year in bradford; set to ????
+Warning--empty publisher in bradford
+Warning--empty year in britannicamissiles; set to ????
+Warning--empty journal in britannicamissiles
+Warning--empty publisher in RAR
+Warning--empty year in eia; set to ????
+Warning--empty year in environmental_and_energy_study_institute_(eesi); set to ????
+Warning--empty year in e_p_a; set to ????
+Warning--empty journal in govhk3
+Warning--empty year in fao; set to ????
+Warning--empty journal in nationalwildlifefederation2021
+Warning--empty year in centerforscienceeducation; set to ????
+Warning--empty journal in govhk2
+Warning--empty journal in govhk1
+Warning--empty journal in graham_NASA
+Warning--empty year in ir; set to ????
+Warning--empty year in hedleyenvind; set to ????
+Warning--empty journal in hedleyenvind
+Warning--empty year in ipen; set to ????
+Warning--empty publisher in isderion_2013
+Warning--empty journal in karim1997heat
+Warning--empty year in kulkari; set to ????
+Warning--empty year in liu; set to ????
+Warning--empty journal in liu2013chinese
+Warning--empty year in lohvision; set to ????
+Warning--empty journal in margulis2010economics
+Warning--empty year in matthew; set to ????
+Warning--empty journal in mccoy2020organic
+Warning--empty year in ministry_of_foreign_affairs; set to ????
+Warning--empty year in mordor; set to ????
+Warning--empty year in smithsonian; set to ????
+Warning--empty journal in smithsonian
+Warning--empty year in noaaclimate.gov; set to ????
+Warning--empty year in nzdl; set to ????
+Warning--empty journal in olsen2015
+Warning--empty year in oregonstate; set to ????
+Warning--empty publisher in coraltriangle
+Warning--empty journal in pebler
+Warning--empty journal in severnini2014power
+Warning--empty publisher in Watlas
+Warning--empty journal in suong2019impact
+Warning--empty journal in thorin2014basics
+Warning--empty year in un; set to ????
+Warning--empty year in UNpopulation; set to ????
+Warning--empty year in united_nations; set to ????
+Warning--empty year in cornell_soils; set to ????
+Warning--empty journal in humboldt
+Warning--empty year in purdue; set to ????
+Warning--empty year in usgs; set to ????
+Warning--empty journal in valera2014sea
+Warning--empty publisher in whitelaw_konbini-nation_2018
+Warning--empty year in who; set to ????
+Warning--empty year in wilkie; set to ????
+Warning--empty journal in wong2018
+Warning--empty journal in yiu2017
+You've used 417 entries,
+            2710 wiz_defined-function locations,
+            2741 strings with 85634 characters,
+and the built_in function-call counts, 199921 in all, are:
+= -- 18729
+> -- 11166
+< -- 291
++ -- 3849
+- -- 3316
+* -- 15396
+:= -- 37296
+add.period$ -- 1712
+call.type$ -- 417
+change.case$ -- 3166
+chr.to.int$ -- 409
+cite$ -- 506
+duplicate$ -- 8918
+empty$ -- 13331
+format.name$ -- 4254
+if$ -- 39290
+int.to.chr$ -- 9
+int.to.str$ -- 1
+missing$ -- 359
+newline$ -- 2125
+num.names$ -- 1642
+pop$ -- 4105
+preamble$ -- 1
+purify$ -- 2754
+quote$ -- 0
+skip$ -- 5474
+stack$ -- 0
+substring$ -- 9813
+swap$ -- 890
+text.length$ -- 31
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 3642
+warning$ -- 75
+while$ -- 1641
+width$ -- 0
+write$ -- 5313
+(There were 80 warnings)

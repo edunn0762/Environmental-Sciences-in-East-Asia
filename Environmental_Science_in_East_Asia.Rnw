@@ -19,11 +19,17 @@
 %\includegraphics{{Home/CAMPUS/mwl04747/github/Environmnental-Sciences-in-East-Asia/images/}}
 \usepackage{textcomp}
 \usepackage{gensymb}
+\usepackage[T1]{fontenc}
 \usepackage{natbib}
+%\usepackage{wasysym} %\smiley{}
+% \usepackage{siunitx}
 \usepackage{glossaries}
+% \usepackage[automake]{glossaries} % automake option unknown.
 \usepackage{amsmath}%
 \usepackage{amsfonts}%
 \usepackage{amssymb}%
+\usepackage{soul}
+\usepackage{comment}
 
 %\usepackage[super,square,comma]{natbib}
 %\usepackage{float}
@@ -41,18 +47,15 @@
     urlcolor=blue
 }
 
+% Editorial Environments
 
-%----------------------------------------------------------
+\newcommand{\red}[1]{\textcolor{red}{[MLH: #1]}}
+\newcommand{\blue}[1]{\textcolor{blue}{[MLH: #1]}}
+
+%-----------------------------------------------------
 \newtheorem{theorem}{Theorem}
 \newtheorem{acknowledgement}[theorem]{Acknowledgement}
-\newtheorem{definition}[theorem]{Definition}
-\newtheorem{example}[theorem]{Example}
-\newtheorem{exercise}[theorem]{Exercise}
 
-\newtheorem{problem}[theorem]{Problem}
-\newtheorem{remark}[theorem]{Remark}
-\newtheorem{solution}[theorem]{Solution}
-\newtheorem{summary}[theorem]{Summary}
 \newenvironment{proof}[1][Proof]{\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
 %----------------------------------------------------------
 
@@ -76,6 +79,12 @@
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\carbondioxide}{CO$_2$~}
+\newcommand{\nitrous}{N$_2$O~}
+\newcommand{\methane}{CH$_4$~}
+\newcommand{\kms}{km$^2$}
+\newcommand{\micrograms}{$\mu$g~m$^{-3}$}
+
+\newcommand{\Mypm}{\mathbin{\tikz [x=1.4ex,y=1.4ex,line width=.1ex] \draw (0.0,0) -- (1.0,0) (0.5,0.08) -- (0.5,0.92) (0.0,0.5) -- (1.0,0.5);}}%
 
 <<setup, echo=FALSE>>=
 opts_knit$set(self.contained=FALSE)
@@ -86,9 +95,9 @@ opts_knit$set(self.contained=FALSE)
 \date{\today}
 
 \begin{document}
-
-\maketitle
 \makeglossaries
+\maketitle
+
 
 \frontmatter
 \tableofcontents
@@ -96,6 +105,10 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/01-preface.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/PermissionForm.Rnw'>>=
+@
+
+\begin{comment}
 <<chapterchild, child='chapters/01-guide.Rnw'>>=
 @
 
@@ -104,6 +117,8 @@ opts_knit$set(self.contained=FALSE)
  
 <<chapterchild, child='chapters/01-Noras-Guides.Rnw'>>=
 @
+
+\end{comment}
 
 \mainmatter
 
@@ -119,10 +134,10 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/land-use.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
+<<chapterchild, child='chapters/Deforestation.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/HK-air-pollution.Rnw'>>=
+<<chapterchild, child='chapters/invasive-species.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/flood-pulse.Rnw'>>=
@@ -140,25 +155,34 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/SBE-Vietnam.Rnw'>>=
 @
 
-<<chapterchild, child='chapters/circular-economy.Rnw'>>=
+<<chapterchild, child='chapters/coral-reefs2.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/HK-air-pollution.Rnw'>>=
+@
+
+<<chapterchild, child='chapters/Environmental-Economies.Rnw'>>=
 @
 
 <<chapterchild, child='chapters/plastic-packaging-Japan.Rnw'>>=
 @
 
+<<chapterchild, child='chapters/circular-economy.Rnw'>>=
+@
 
 \backmatter
 
 \part{Backmatter}
 
-The back matter often includes one or more of an index, an afterword, acknowledgments, a bibliography, a colophon, or any other similar item. In the back matter, chapters do not produce a chapter number, but they are entered in the table of contents. If you are not using anything in the back matter, you can delete the back matter TeX field and everything that follows it.
+%The back matter often includes one or more of an index, an afterword, acknowledgments, a bibliography, a colophon, or any other similar item. In the back matter, chapters do not produce a chapter number, but they are entered in the table of contents. If you are not using anything in the back matter, you can delete the back matter TeX field and everything that follows it.
 
 \printglossary
 
 \renewcommand\bibname{References}
 \setlength{\bibsep}{2\baselineskip}
 \setlength\bibindent{.5in}
-\bibliographystyle{plainnat}
-\bibliography{References}
+%\bibliographystyle{plainnat}
+\bibliographystyle{ecology}
+\bibliography{References,marctest}
 
 \end{document}

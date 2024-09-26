@@ -1,49 +1,2669 @@
-\begin{thebibliography}{6}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{417}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-\bibitem[Imura et~al.(2005)Imura, Yedla, Shirakawa, and Memon]{imura2005urban}
-Hidefumi Imura, Sudhakar Yedla, Hiroaki Shirakawa, and Mushtaq~A Memon.
-\newblock Urban environmental issues and trends in asia-an overview.
-\newblock \emph{International review for environmental strategies}, 5\penalty0
-  (2):\penalty0 357, 2005.
+\bibitem[{(????)}]{}
+ ????
 
-\bibitem[Institute~of Botany(2021)]{CAS2021researchers}
-Chinese Academy of~Sciences Institute~of Botany.
+\bibitem[{wor(????)}]{worldbank_blog}
+ ????
+\newblock A low-priced water reuse process that also delivers renewable energy
+  in rural areas.
+\newblock
+  \urlprefix\url{https://blogs.worldbank.org/water/low-priced-water-reuse-process-also-delivers-renewable-energy-rural-areas}.
+
+\bibitem[{sto(????)}]{stockholmresiliencecentre}
+ ????
+\newblock The nine planetary boundaries.
+\newblock
+  \urlprefix\url{https://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html}.
+
+\bibitem[{the(2015)}]{theeconomist}
+ 2015.
+\newblock The case for slower growth.
+\newblock
+  \urlprefix\url{https://www.economist.com/the-world-if/2015/07/30/the-case-for-slower-growth}.
+
+\bibitem[{bbc(2019)}]{bbc_news_2019}
+ 2019.
+\newblock Taiwan country profile.
+\newblock \urlprefix\url{https://www.bbc.com/news/world-asia-16164639}.
+
+\bibitem[{cab(2021)}]{cabi2021}
+ 2021.
+\newblock Pomacea Canaliculata (Golden Apple Snail).
+\newblock CAB International.
+\newblock \urlprefix\url{https://www.cabi.org/isc/datasheet/68490}.
+
+\bibitem[{epi(2021)}]{epi}
+ 2021.
+\newblock Welcome.
+\newblock \urlprefix\url{https://epi.yale.edu/}.
+
+\bibitem[{Abdullah et~al.(2016)Abdullah, Feagin, Musawi, Whisenant, and
+  Popescu}]{abdullah2016use}
+Abdullah, M.~M., R.~A. Feagin, L.~Musawi, S.~Whisenant, and S.~Popescu. 2016.
+\newblock The use of remote sensing to develop a site history for restoration
+  planning in an arid landscape.
+\newblock Restoration Ecology, {\bf 24}:91--99.
+
+\bibitem[{ACS(????)}]{acs}
+ACS. ????
+\newblock ChemMatters Demystifying Everday Chemisty Teachers Guide.
+
+\bibitem[{Administration(2020)}]{useia}
+Administration, U. E.~I. 2020.
+\newblock Waste-to-energy ({MSW}) in depth - {U}.{S}. {Energy} {Information}
+  {Administration} ({EIA}).
+\newblock
+  \urlprefix\url{https://www.eia.gov/energyexplained/biomass/waste-to-energy-in-depth.php}.
+
+\bibitem[{Aguainc(2015)}]{aguainc_2015}
+Aguainc. 2015.
+\newblock Turning dumps into oases-this startup is shaping the future of water
+  management - unreasonable.
+\newblock \urlprefix\url{https://unreasonablegroup.com/articles/agua-inc/}.
+
+\bibitem[{Aiken and Leigh(2015)}]{aiken2015dams}
+Aiken, S.~R. and C.~H. Leigh. 2015.
+\newblock Dams and indigenous peoples in malaysia: Development, displacement
+  and resettlement.
+\newblock Geografiska Annaler: Series B, Human Geography, {\bf 97}:69--93.
+
+\bibitem[{AIR(2020)}]{air2020report}
+AIR, I. 2020.
+\newblock Report: Covid-19 impact on air quality in 10 major cities.
+
+\bibitem[{Akpan(2014)}]{akpan_2014}
+Akpan, N. 2014.
+\newblock Floating toilets that clean themselves grow on a lake.
+\newblock
+  \urlprefix\url{http://www.npr.org/sections/goatsandsoda/2014/12/23/371862099/floating-toilets-that-clean-themselves-grow-on-a-lake.}
+
+\bibitem[{{Al-Attili, A}(2021)}]{al-attili}
+{Al-Attili, A}. 2021.
+\newblock Environmental and ecological economics.
+\newblock
+  \urlprefix\url{https://www.soas.ac.uk/cedep-demos/000_P570_IEEP_K3736-Demo/unit1/page_12.html}.
+
+\bibitem[{Ali et~al.(2020)Ali, Abbas, Rizwan, Zaheer, Yava{\c{s}}, {\"U}nay,
+  Abdel-Daim, Bin-Jumah, Hasanuzzaman, and Kalderis}]{ali2020application}
+Ali, S., Z.~Abbas, M.~Rizwan, I.~E. Zaheer, {\.I}.~Yava{\c{s}}, A.~{\"U}nay,
+  M.~M. Abdel-Daim, M.~Bin-Jumah, M.~Hasanuzzaman, and D.~Kalderis. 2020.
+\newblock Application of floating aquatic plants in phytoremediation of heavy
+  metals polluted water: a review.
+\newblock Sustainability, {\bf 12}:1927.
+
+\bibitem[{Almond and Petersen(2020)}]{wwfindex}
+Almond, G.~M., R.E.A. and T.~Petersen. 2020.
+\newblock Living planet report 2020 bending the curve of biodiversity loss.
+\newblock World Wildlife Foundation, pages 453--460.
+\newblock
+  \urlprefix\url{https://f.hubspotusercontent20.net/hubfs/4783129/LPR/PDFs/ENGLISH-FULL.pdf}.
+
+\bibitem[{Andriani et~al.(2015)Andriani, Wresta, Saepudin, and
+  Prawara}]{andriani2015review}
+Andriani, D., A.~Wresta, A.~Saepudin, and B.~Prawara. 2015.
+\newblock A review of recycling of human excreta to energy through biogas
+  generation: Indonesia case.
+\newblock Energy Procedia, {\bf 68}:219--225.
+
+\bibitem[{Angulo-Martinez et~al.(2012)Angulo-Martinez, Beguer{\'\i}a, Navas,
+  and Machin}]{angulo2012splash}
+Angulo-Martinez, M., S.~Beguer{\'\i}a, A.~Navas, and J.~Machin. 2012.
+\newblock Splash erosion under natural rainfall on three soil types in ne
+  spain.
+\newblock Geomorphology, {\bf 175}:38--44.
+
+\bibitem[{aquatech(????)}]{aquatech}
+aquatech. ????
+\newblock Biogas: an untapped energy source to avert a climate crisis?
+\newblock
+  \urlprefix\url{https://www.aquatechtrade.com/news/wastewater/biogas-energy-source-to-avert-climate-change/}.
+
+\bibitem[{Aquino and Kaczan(2019)}]{Marinescienceresilientcommunities}
+Aquino, A. and D.~Kaczan. 2019.
+\newblock Marine science for healthy reefs and resilient communities 21 years
+  of coremap in indonesia.
+\newblock World Bank.
+\newblock
+  \urlprefix\url{https://blogs.worldbank.org/eastasiapacific/marine-science-healthy-reefs-and-resilient-communities-21-years-coremap-indonesia}.
+
+\bibitem[{Arshad(2016)}]{arshad_2016}
+Arshad, A. 2016.
+\newblock 140m in se-asia do not have clean water.
+\newblock
+  \urlprefix\url{https://www.straitstimes.com/asia/se-asia/140m-in-se-asia-do-not-have-clean-water}.
+
+\bibitem[{Ascher(2021)}]{ascher_2021}
+Ascher, W. 2021.
+\newblock Pro-poor development in southeast asia.
+
+\bibitem[{Ashourian et~al.(2013)Ashourian, Cherati, Zin, Niknam, Mokhtar, and
+  Anwari}]{ashourian2013optimal}
+Ashourian, M., S.~Cherati, A.~M. Zin, N.~Niknam, A.~Mokhtar, and M.~Anwari.
+  2013.
+\newblock Optimal green energy management for island resorts in malaysia.
+\newblock Renewable energy, {\bf 51}:36--45.
+
+\bibitem[{Assessment(2002)}]{assessment2002united}
+Assessment, W. 2002.
+\newblock United nations environment programme.
+
+\bibitem[{Attenborough(2020)}]{Attenborough2020life}
+Attenborough, D. 2020.
+\newblock A Life on Our Planet: My Witness Statement and a Vision for the
+  Future.
+\newblock Random House.
+
+\bibitem[{Aung-Thwin and Aung-Thwin(2013)}]{aung2013history}
+Aung-Thwin, M. and M.~Aung-Thwin. 2013.
+\newblock A history of Myanmar since ancient times: Traditions and
+  transformations.
+\newblock Reaktion Books.
+
+\bibitem[{Awojobi and Jenkins(2015)}]{awojobi2015were}
+Awojobi, O. and G.~P. Jenkins. 2015.
+\newblock Were the hydro dams financed by the world bank from 1976 to 2005
+  worthwhile?
+\newblock Energy Policy, {\bf 86}:222--232.
+
+\bibitem[{Ayala(2009)}]{Ayala_2009}
+Ayala, C. 2009.
+\newblock Effects of ocean acidification on corals.
+\newblock Oceana USA.
+\newblock
+  \urlprefix\url{https://usa.oceana.org/effects-ocean-acidification-corals}.
+
+\bibitem[{Baldwin(2010)}]{Baldwin2010great}
+Baldwin, A. 2010.
+\newblock Great Migrations: Born To Move.
+\newblock Disney Plus.
+
+\bibitem[{Bambawale et~al.(2011)Bambawale, D'Agostino, and
+  Sovacool}]{bambawale2011realizing}
+Bambawale, M.~J., A.~L. D'Agostino, and B.~K. Sovacool. 2011.
+\newblock Realizing rural electrification in southeast asia: lessons from laos.
+\newblock Energy for Sustainable Development, {\bf 15}:41--48.
+
+\bibitem[{Bangalore et~al.(2019)Bangalore, Smith, and
+  Veldkamp}]{bangalore2019exposure}
+Bangalore, M., A.~Smith, and T.~Veldkamp. 2019.
+\newblock Exposure to floods, climate change, and poverty in vietnam.
+\newblock Economics of Disasters and Climate Change, {\bf 3}:79--99.
+
+\bibitem[{Bank(2017)}]{world2017world}
+Bank, W. 2017.
+\newblock The World Bank Annual Report 2017.
+\newblock The World Bank.
+
+\bibitem[{Bauer(2020)}]{bauer2020remote}
+Bauer, M.~E. 2020.
+\newblock Remote sensing of environment: History, philosophy, approach and
+  contributions, 1969--2019.
+\newblock Remote Sensing of Environment, {\bf 237}:111522.
+
+\bibitem[{Bauman(2019)}]{bauman2019}
+Bauman, B. 2019.
+\newblock Why plastics can be garbage for the climate.
+\newblock
+  \urlprefix\url{https://yaleclimatemediaforum.org/2019/08/how-plastics-contribute-to-climate-change/}.
+
+\bibitem[{Bayazit(2015)}]{bayazit2015nonstationarity}
+Bayazit, M. 2015.
+\newblock Nonstationarity of hydrological records and recent trends in trend
+  analysis: a state-of-the-art review.
+\newblock Environmental Processes, {\bf 2}:527--542.
+
+\bibitem[{Beck(2019)}]{Beck}
+Beck, M. 2019.
+\newblock Coral reefs provide flood protection worth \$1.8 billion every
+  year-it’s time to protect them.
+\newblock The Conversation.
+\newblock
+  \urlprefix\url{http://theconversation.com/coral-reefs-provide-flood-protection-worth-1-8-billion-every-year-its-time-to-protect-them-116636}.
+
+\bibitem[{Begum et~al.(2015)Begum, Sohag, Abdullah, and Jaafar}]{begum2015co2}
+Begum, R.~A., K.~Sohag, S.~M.~S. Abdullah, and M.~Jaafar. 2015.
+\newblock Co2 emissions, energy consumption, economic and population growth in
+  malaysia.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 41}:594--601.
+
+\bibitem[{Ben-Ari et~al.(1990)Ben-Ari, Moeran, and
+  Valentine}]{ben-ari_unwrapping_1990}
+Ben-Ari, E., B.~Moeran, and J.~Valentine. 1990.
+\newblock Unwrapping {Japan}: {Society} and {Culture} in {Anthropological}
+  {Perspective}.
+\newblock Manchester University Press.
+\newblock Google-Books-ID: aYC7AAAAIAAJ.
+
+\bibitem[{Bennett(2020)}]{bennett2020pixel}
+Bennett, M.~M. 2020.
+\newblock Is a pixel worth 1000 words? critical remote sensing and china's belt
+  and road initiative.
+\newblock Political Geography, {\bf 78}:102127.
+
+\bibitem[{Berendes et~al.(2018)Berendes, Yang, Lai, Hu, and
+  Brown}]{berendes_yang_lai_hu_brown_2018}
+Berendes, D.~M., P.~J. Yang, A.~Lai, D.~Hu, and J.~Brown. 2018.
+\newblock Estimation of global recoverable human and animal faecal biomass.
+\newblock \urlprefix\url{https://www.nature.com/articles/s41893-018-0167-0}.
+
+\bibitem[{Bilgen(2014)}]{bilgen2014structure}
+Bilgen, S. 2014.
+\newblock Structure and environmental impact of global energy consumption.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 38}:890--902.
+
+\bibitem[{Billington and Jackson(2006)}]{billington2006big}
+Billington, D.~P. and D.~C. Jackson. 2006.
+\newblock Big dams of the New Deal era: A confluence of engineering and
+  politics.
+\newblock University of Oklahoma Press.
+
+\bibitem[{Bird(2012)}]{bird_will_nodate}
+Bird, W. 2012.
+\newblock Will {Fish}-{Loving} {Japan} {Embrace} {Sustainable} {Seafood}?
+\newblock
+  \urlprefix\url{https://e360.yale.edu/features/will_fish-loving_japan_embrace_sustainable_seafood}.
+
+\bibitem[{Birkeland et~al.(1984)}]{birkeland1984soils}
+Birkeland, P.~W. et~al. 1984.
+\newblock Soils and geomorphology.
+\newblock Oxford University Press.
+
+\bibitem[{Bodley(2014)}]{bodley2014victims}
+Bodley, J.~H. 2014.
+\newblock Victims of progress.
+\newblock Rowman \& Littlefield.
+
+\bibitem[{Bolay et~al.(1997)Bolay, Cartoux, Cunha, Du, and
+  Bassand}]{bolay1997sustainable}
+Bolay, J.-C., S.~Cartoux, A.~Cunha, T.~T.~N. Du, and M.~Bassand. 1997.
+\newblock Sustainable development and urban growth: Precarious habitat and
+  water management in ho chi minh city, vietnam.
+\newblock Habitat International, {\bf 21}:185--197.
+
+\bibitem[{Bolt and van Zanden(2020)}]{bolt2020maddison}
+Bolt, J. and J.~L. van Zanden. 2020.
+\newblock Maddison style estimates of the evolution of the world economy. a new
+  2020 update.
+\newblock University of Groningen, Groningen Growth and Development Centre,
+  Maddison Project Working Paper.
+
+\bibitem[{Borrelli et~al.(2017)Borrelli, Robinson, Fleischer, Lugato, Ballabio,
+  Alewell, Meusburger, Modugno, Sch{\"u}tt, Ferro
+  et~al.}]{borrelli2017assessment}
+Borrelli, P., D.~A. Robinson, L.~R. Fleischer, E.~Lugato, C.~Ballabio,
+  C.~Alewell, K.~Meusburger, S.~Modugno, B.~Sch{\"u}tt, V.~Ferro, et~al. 2017.
+\newblock An assessment of the global impact of 21st century land use change on
+  soil erosion.
+\newblock Nature communications, {\bf 8}:1--13.
+
+\bibitem[{Bowen(2015)}]{bowen2015social}
+Bowen, T. 2015.
+\newblock Social protection and disaster risk management in the Philippines:
+  the case of typhoon Yolanda (Haiyan).
+\newblock The World Bank.
+
+\bibitem[{Bown(????)}]{bown}
+Bown, C. ????
+\newblock Household hazardous products and hazardous waste: A summary for
+  consumers.
+
+\bibitem[{Bradford(????)}]{bradford}
+Bradford, N. ????
+\newblock Saltwater Intrusion.
+\newblock \urlprefix\url{https://www.neefusa.org/file/saltwater-intrusion}.
+
+\bibitem[{Brakenridge et~al.(2017)Brakenridge, Syvitski, Niebuhr, Overeem,
+  Higgins, Kettner, and Prades}]{brakenridge2017design}
+Brakenridge, G., J.~Syvitski, E.~Niebuhr, I.~Overeem, S.~Higgins, A.~Kettner,
+  and L.~Prades. 2017.
+\newblock Design with nature: Causation and avoidance of catastrophic flooding,
+  myanmar.
+\newblock Earth-science reviews, {\bf 165}:81--109.
+
+\bibitem[{Brandl et~al.(2019)Brandl, Rasher, Côté, Casey, Darling, Lefcheck,
+  and Duffy}]{https://doi.org/10.1002/fee.2088}
+Brandl, S.~J., D.~B. Rasher, I.~M. Côté, J.~M. Casey, E.~S. Darling, J.~S.
+  Lefcheck, and J.~E. Duffy. 2019.
+\newblock Coral reef ecosystem functioning: eight core processes and the role
+  of biodiversity.
+\newblock Frontiers in Ecology and the Environment, {\bf 17}:445--454.
+\newblock
+  \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.2088}.
+
+\bibitem[{Braungart et~al.(2011)Braungart, McDonough, and
+  Kroese}]{braungart_mcdonough_kroese_2011}
+Braungart, M., W.~McDonough, and H.~S. Kroese. 2011.
+\newblock Cradle to cradle: afval=voedsel.
+\newblock Search Knowledge.
+
+\bibitem[{Brewer et~al.(2013)Brewer, Cinner, Green, and
+  Pressey}]{8767176420130601}
+Brewer, T.~D., J.~E. Cinner, A.~Green, and R.~L. Pressey. 2013.
+\newblock Effects of human population density and proximity to markets on coral
+  reef fishes vulnerable to extinction by fishing.
+\newblock Conservation Biology, {\bf 27}:443 -- 452.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=87671764&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Britannica(????)}]{britannicamissiles}
+Britannica, E. ????
+\newblock V-2 missile.
+\newblock \urlprefix\url{https://www.britannica.com/technology/V-2-missile}.
+
+\bibitem[{Brooker et~al.(2017)Brooker, Widmaier, Graham, and
+  Stiling}]{brooker_2017chapter}
+Brooker, R., E.~Widmaier, L.~Graham, and P.~Stiling. 2017.
+\newblock Chapter 60: Biodiversity and conservation biology.
+
+\bibitem[{Bruckner(2002)}]{AndrewWBruckner_1970}
+Bruckner, A.~W. 2002.
+\newblock Life-saving products from coral reefs.
+\newblock Issues in Science and Technology.
+\newblock
+  \urlprefix\url{https://issues.org/p_bruckner-coral-reefs-importance/}.
+
+\bibitem[{Bureau~of Environment(2019)}]{tps}
+Bureau~of Environment, T. M.~G. 2019.
+\newblock Tokyo plastic strategy.
+
+\bibitem[{Burke et~al.(2002)Burke, Selig, and Spanlding}]{RAR}
+Burke, L., E.~Selig, and M.~Spanlding. 2002.
+\newblock Reefs at Risk in Southeast Asia.
+
+\bibitem[{Butler(2009)}]{butler2009headwinds}
+Butler, S.~H. 2009.
+\newblock Headwinds to a clean energy future: nuisance suits against wind
+  energy projects in the united states.
+\newblock California Law Review, {\bf 97}:1337--1375.
+
+\bibitem[{Campbell et~al.(2020)Campbell, Darling, Pardede, Ahmadia, Mangubhai,
+  Amkieltiela, Estradivari, and Maire}]{https://doi.org/10.1111/conl.12698}
+Campbell, S.~J., E.~S. Darling, S.~Pardede, G.~Ahmadia, S.~Mangubhai,
+  Amkieltiela, Estradivari, and E.~Maire. 2020.
+\newblock Fishing restrictions and remoteness deliver conservation outcomes for
+  indonesia's coral reef fisheries.
+\newblock Conservation Letters, {\bf 13}:e12698.
+\newblock
+  \urlprefix\url{https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/conl.12698}.
+
+\bibitem[{Capistrano(2010)}]{4826000120100501}
+Capistrano, R. C.~G. 2010.
+\newblock Reclaiming the ancestral waters of indigenous peoples in the
+  philippines the tagbanua experience with fishing rights and indigenous
+  rights.
+\newblock Marine Policy, {\bf 34}:453--460.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48260001&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Carlsson et~al.(2004)Carlsson, Br{\"o}nmark, and
+  Hansson}]{carlsson2004invading}
+Carlsson, N.~O., C.~Br{\"o}nmark, and L.-A. Hansson. 2004.
+\newblock Invading herbivory: the golden apple snail alters ecosystem
+  functioning in asian wetlands.
+\newblock Ecology, {\bf 85}:1575--1580.
+
+\bibitem[{Cernea(1997)}]{cernea1997risks}
+Cernea, M. 1997.
+\newblock The risks and reconstruction model for resettling displaced
+  populations.
+\newblock World development, {\bf 25}:1569--1587.
+
+\bibitem[{Cernea(2004)}]{cernea2004impoverishment}
+Cernea, M. 2004.
+\newblock Impoverishment risks, risk management, and reconstruction: A model of
+  population displacement and resettlement.
+\newblock In UN Symposium on hydropower and sustainable development, volume~27.
+  Citeseer.
+
+\bibitem[{Chan and Yam(1995)}]{chan1995green}
+Chan, R. Y.-K. and E.~Yam. 1995.
+\newblock Green movement in a newly industrializing area: a survey on the
+  attitudes and behaviour of the hong kong citizens.
+\newblock Journal of Community \& Applied Social Psychology, {\bf 5}:273--284.
+
+\bibitem[{Chen et~al.(2012)Chen, McCarl, and Chang}]{chen2012climate}
+Chen, C.-C., B.~McCarl, and C.-C. Chang. 2012.
+\newblock Climate change, sea level rise and rice: global market implications.
+\newblock Climatic change, {\bf 110}:543--560.
+
+\bibitem[{Chen et~al.(2018)Chen, Roff, McCook, Zhao, and Li}]{sealevelrise}
+Chen, T., G.~Roff, L.~McCook, J.~Zhao, and S.~Li. 2018.
+\newblock Recolonization of marginal coral reef flats in response to recent
+  sea-level rise.
+\newblock Journal of Geophysical Research: Oceans, {\bf 123}:7618--7628.
+\newblock
+  \urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014534}.
+
+\bibitem[{Chen et~al.(2021)Chen, Duan, Yang, Deng, Wu, and
+  Ou}]{chen2021typhoons}
+Chen, Y., Z.~Duan, J.~Yang, Y.~Deng, T.~Wu, and J.~Ou. 2021.
+\newblock Typhoons of western north pacific basin under warming climate and
+  implications for future wind hazard of east asia.
+\newblock Journal of Wind Engineering and Industrial Aerodynamics, {\bf
+  208}:104415.
+
+\bibitem[{Chen et~al.(2015)Chen, Wang, Lin, Shi, Song, and
+  He}]{chen2015balancing}
+Chen, Y., K.~Wang, Y.~Lin, W.~Shi, Y.~Song, and X.~He. 2015.
+\newblock Balancing green and grain trade.
+\newblock Nature Geoscience, {\bf 8}:739--741.
+
+\bibitem[{Chiu and Lui(2000)}]{chiu2000dynamics}
+Chiu, S. W.~K. and T.~L. Lui. 2000.
+\newblock The dynamics of social movements in Hong Kong: Real and financial
+  linkages and the prospects for currency union, volume~1.
+\newblock Hong Kong University Press.
+
+\bibitem[{Choy(2004)}]{choy2004sustainable}
+Choy, Y.~K. 2004.
+\newblock Sustainable development and the social and cultural impact of a
+  dam-induced development strategy-the bakun experience.
+\newblock Pacific Affairs, pages 50--68.
+
+\bibitem[{Chua and Oh(2011)}]{chua2011green}
+Chua, S.~C. and T.~H. Oh. 2011.
+\newblock Green progress and prospect in malaysia.
+\newblock Renewable and Sustainable Energy Reviews, {\bf 15}:2850--2861.
+
+\bibitem[{Cole et~al.(2009)Cole, Phuc, and Collett}]{cole_phuc_collett_2009}
+Cole, B., P.~D. Phuc, and J.~Collett. 2009.
+\newblock A qualitative and physical investigation of a double-vault composting
+  latrine programme in northern vietnam.
+\newblock Waterlines, {\bf 28}:333–342.
+
+\bibitem[{Cooke et~al.(2017)Cooke, Nordensvard, Saat, Urban, and
+  Siciliano}]{cooke2017limits}
+Cooke, F.~M., J.~Nordensvard, G.~B. Saat, F.~Urban, and G.~Siciliano. 2017.
+\newblock The limits of social protection: the case of hydropower dams and
+  indigenous peoples' land.
+\newblock Asia \& the Pacific Policy Studies, {\bf 4}:437--450.
+
+\bibitem[{CORAL(2021)}]{coralreefalliance_2021}
+CORAL. 2021.
+\newblock Coral reef ecology.
+\newblock
+  \urlprefix\url{https://coral.org/coral-reefs-101/coral-reef-ecology/}.
+
+\bibitem[{Costenbader et~al.(2015)Costenbader, Broadhead, Yasmi, and
+  Durst}]{costenbader2015drivers}
+Costenbader, J., J.~Broadhead, Y.~Yasmi, and P.~B. Durst. 2015.
+\newblock Drivers affecting forest change in the greater mekong subregion
+  (gms): an overview.
+\newblock FAO: Rome, Italy.
+
+\bibitem[{Crossley-Baxter(2020)}]{crossleybaxter2020}
+Crossley-Baxter, L. 2020.
+\newblock Japan's ancient way to save the planet.
+\newblock
+  \urlprefix\url{file:///Users/eleanordunn/Zotero/storage/BBLWIFX6/20200308-japans-ancient-way-to-save-the-planet.html}.
+
+\bibitem[{Crowder and Downey(2010)}]{crowder2010interneighborhood}
+Crowder, K. and L.~Downey. 2010.
+\newblock Interneighborhood migration, race, and environmental hazards:
+  Modeling microlevel processes of environmental inequality.
+\newblock American journal of sociology, {\bf 115}:1110--1149.
+
+\bibitem[{Csiki and Rhoads(2010)}]{csiki2010hydraulic}
+Csiki, S. and B.~L. Rhoads. 2010.
+\newblock Hydraulic and geomorphological effects of run-of-river dams.
+\newblock Progress in Physical Geography, {\bf 34}:755--780.
+
+\bibitem[{Cwiertka(2020)}]{meiselman_packaging_2020}
+Cwiertka, K.~J. 2020.
+\newblock Packaging of {Food} and {Drink} in {Japan}.
+\newblock In H.~L. Meiselman, editor, Handbook of {Eating} and {Drinking},
+  pages 509--524. Springer International Publishing, Cham.
+\newblock
+  \urlprefix\url{http://link.springer.com/10.1007/978-3-030-14504-0_165}.
+
+\bibitem[{Dao(2010)}]{dao2010dam}
+Dao, N. 2010.
+\newblock Dam development in vietnam: The evolution of dam-induced resettlement
+  policy.
+\newblock Water Alternatives, {\bf 3}:324.
+
+\bibitem[{Dasgupta et~al.(2009)Dasgupta, Laplante, Murray, and
+  Wheeler}]{dasgupta2009sea}
+Dasgupta, S., B.~Laplante, S.~Murray, and D.~Wheeler. 2009.
+\newblock Sea-level rise and storm surges: A comparative analysis of impacts in
+  developing countries.
+\newblock World Bank Policy Research Working Paper Series, Vol.
+
+\bibitem[{Dasgupta et~al.(2002)Dasgupta, Laplante, Wang, and
+  Wheeler}]{dasgupta2002confronting}
+Dasgupta, S., B.~Laplante, H.~Wang, and D.~Wheeler. 2002.
+\newblock Confronting the environmental kuznets curve.
+\newblock Journal of economic perspectives, {\bf 16}:147--168.
+
+\bibitem[{Davis(2002)}]{davis2002late}
+Davis, M. 2002.
+\newblock Late Victorian holocausts: El Nino famines and the making of the
+  third world.
+\newblock Verso Books.
+
+\bibitem[{Dean et~al.(2014)}]{dean2014principles}
+Dean, E. et~al. 2014.
+\newblock Principles of Microeconomics: Scarcity and Social Provisioning.
+\newblock Open Oregon Educational Resources.
+
+\bibitem[{Demetriou(2020)}]{demetriou2020}
+Demetriou, D. 2020.
+\newblock How the {J}apanese are putting an end to extreme work weeks.
+\newblock
+  \urlprefix\url{https://www.bbc.com/worklife/article/20200114-how-the-japanese-are-putting-an-end-to-death-from-overwork}.
+
+\bibitem[{DenHoed(2018)}]{denhoed}
+DenHoed, A. 2018.
+\newblock The turn-of-the-century pigeons that photographed earth from above.
+\newblock The New Yorker.
+\newblock
+  \urlprefix\url{https://www.newyorker.com/culture/photo-booth/the-turn-of-the-century-pigeons-that-photographed-earth-from-above}.
+
+\bibitem[{Denyer(2019)}]{denyer2019}
+Denyer, S. 2019.
+\newblock Japan wraps everything in plastic. now it wants to fight against
+  plastic pollution.
+\newblock
+  \urlprefix\url{https://www.washingtonpost.com/world/asia_pacific/japan-wraps-everything-in-plastic-now-it-wants-to-fight-against-plastic-pollution/2019/06/18/463fa73c-7298-11e9-9331-30bc5836f48e_story.html}.
+
+\bibitem[{Doyle and Gilbert(2015)}]{doyle2015indigenous}
+Doyle, C. and J.~Gilbert. 2015.
+\newblock Indigenous peoples and globalization: From'development
+  aggression'to'self-determined development.
+\newblock Available at SSRN 2552408.
+
+\bibitem[{du~musee~de Shanghai(1996)}]{du1996university}
+du~musee~de Shanghai, B. 1996.
+\newblock University of hong kong, centre for chinese archaeology and art,
+  1998. childs-johnson, elizabeth." jade as material and epoch." in china, 5000
+  years: Innovation and transformation in the arts, ed. sherman e. lee, 55-68.
+  new york: Solomon r. guggenheim museum, 1998.
+\newblock World Archaeology, {\bf 28}:209--19.
+
+\bibitem[{Dunbar(2017{\natexlab{{\em a\/}}})}]{dunbar2017}
+Dunbar, B. 2017{\natexlab{{\em a\/}}}.
+\newblock First picture of earth from 100 miles in space, 1947.
+\newblock NASA.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1298.html}.
+
+\bibitem[{Dunbar(2017{\natexlab{{\em b\/}}})}]{dunbartiros}
+Dunbar, B. 2017{\natexlab{{\em b\/}}}.
+\newblock Tiros, the nation's first weather satellite.
+\newblock NASA.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/multimedia/imagegallery/image_feature_1627.html}.
+
+\bibitem[{Edelstein and Kleese(1995)}]{edelstein1995cultural}
+Edelstein, M.~R. and D.~A. Kleese. 1995.
+\newblock Cultural relativity of impact assessment: Native hawaiian opposition
+  to geothermal energy development.
+\newblock Society \& Natural Resources, {\bf 8}:19--31.
+
+\bibitem[{Edmonson(2011)}]{edmonson2011}
+Edmonson, S. 2011.
+\newblock Height—{Good} {For} {Basketball}, {Bad} {For} {Air}.
+\newblock
+  \urlprefix\url{https://earthjustice.org/blog/2011-june/height-good-for-basketball-bad-for-air}.
+
+\bibitem[{EIA(????)}]{eia}
+EIA. ????
+\newblock U.s. energy information administration - eia - independent statistics
+  and analysis.
+\newblock
+  \urlprefix\url{https://www.eia.gov/energyexplained/biomass/landfill-gas-and-biogas.php#:~:text=Biogas
+  is an energy-rich,and carbon dioxide (CO2).}
+
+\bibitem[{Ekins et~al.(2003)Ekins, Simon, Deutsch, Folke, and
+  De~Groot}]{ekins2003framework}
+Ekins, P., S.~Simon, L.~Deutsch, C.~Folke, and R.~De~Groot. 2003.
+\newblock A framework for the practical application of the concepts of critical
+  natural capital and strong sustainability.
+\newblock Ecological economics, {\bf 44}:165--185.
+
+\bibitem[{Elkharouf and Pritchard(2019)}]{elkharouf2019grassroot}
+Elkharouf, O. and B.~Pritchard. 2019.
+\newblock How do grassroot ngos in rural myanmar express their visions for the
+  food system? food security and food sovereignty as entangled narratives
+  within ngo struggles and strategies.
+\newblock Asia Pacific Viewpoint, {\bf 60}:402--415.
+
+\bibitem[{Emanuel(2005)}]{emanuel2005increasing}
+Emanuel, K. 2005.
+\newblock Increasing destructiveness of tropical cyclones over the past 30
+  years.
+\newblock Nature, {\bf 436}:686--688.
+
+\bibitem[{Emanuel(2006)}]{emanuel2006hurricanes}
+Emanuel, K. 2006.
+\newblock Hurricanes: Tempests in a greenhouse.
+\newblock Physics Today, {\bf 59}:74--75.
+
+\bibitem[{Emanuel(1987)}]{emanuel1987dependence}
+Emanuel, K.~A. 1987.
+\newblock The dependence of hurricane intensity on climate.
+\newblock Nature, {\bf 326}:483--485.
+
+\bibitem[{Emanuel(2013)}]{emanuel2013downscaling}
+Emanuel, K.~A. 2013.
+\newblock Downscaling cmip5 climate models shows increased tropical cyclone
+  activity over the 21st century.
+\newblock Proceedings of the National Academy of Sciences, {\bf
+  110}:12219--12224.
+
+\bibitem[{Environmental and
+  (EESI)(????)}]{environmental_and_energy_study_institute_(eesi)}
+Environmental and E.~S.~I. (EESI). ????
+\newblock Fact sheet: Biogas: Converting waste to energy.
+\newblock
+  \urlprefix\url{https://www.eesi.org/papers/view/fact-sheet-biogasconverting-waste-to-energy}.
+
+\bibitem[{epa(????)}]{e_p_a}
+epa. ????
+\newblock Improvements to the u.s. wastewater methane and nitrous oxide
+  emissions estimates.
+\newblock U.S. Environmental Protection Agency.
+
+\bibitem[{EPA(2018)}]{epa_2018}
+EPA. 2018.
+\newblock Reducing pfas in drinking water with treatment technologies.
+\newblock
+  \urlprefix\url{https://www.epa.gov/sciencematters/reducing-pfas-drinking-water-treatment-technologies}.
+
+\bibitem[{EPA(2020)}]{epa_2020}
+EPA. 2020.
+\newblock Septic systems and drinking water.
+\newblock
+  \urlprefix\url{https://www.epa.gov/septic/septic-systems-and-drinking-water}.
+
+\bibitem[{EPD(2020)}]{govhk3}
+EPD, G. 2020.
+\newblock Aqhi \& air quality.
+\newblock
+  \urlprefix\url{https://www.epd.gov.hk/epd/english/environmentinhk/air/air_quality/air_quality.html}.
+
+\bibitem[{Evans(2008)}]{evans2008introduction}
+Evans, S. 2008.
+\newblock The introduction of english-language education in early colonial hong
+  kong.
+\newblock History of Education, {\bf 37}:383--408.
+
+\bibitem[{Evers and Pathirana(2018)}]{evers2018adaptation}
+Evers, J. and A.~Pathirana. 2018.
+\newblock Adaptation to climate change in the mekong river basin: introduction
+  to the special issue.
+
+\bibitem[{Fabinyi(2010)}]{10.2307/40603032}
+Fabinyi, M. 2010.
+\newblock The intensification of fishing and the rise of tourism: Competing
+  coastal livelihoods in the calamianes islands, philippines.
+\newblock Human Ecology, {\bf 38}:415--427.
+\newblock \urlprefix\url{http://www.jstor.org/stable/40603032}.
+
+\bibitem[{Fan et~al.(2012)Fan, Lam, and Yu}]{fan2012differential}
+Fan, X., K.-c. Lam, and Q.~Yu. 2012.
+\newblock Differential exposure of the urban population to vehicular air
+  pollution in hong kong.
+\newblock Science of the Total Environment, {\bf 426}:211--219.
+
+\bibitem[{FAO(????)}]{fao}
+FAO. ????
+\newblock Food loss and food waste.
+\newblock
+  \urlprefix\url{http://www.fao.org/food-loss-and-food-waste/flw-data)#:~:text=One-third
+  of food produced,1.3 billion tonnes per year.}
+
+\bibitem[{Faulden(2021)}]{faulden_2021}
+Faulden, D. 2021.
+\newblock Air pollution: Asia's deadliest public health crisis isn't covid.
+\newblock \urlprefix\url{https://asia.nikkei.com
+  /Spotlight/The-Big-Story/Air-pollution-Asia-s-deadliest-public-health-crisis-isn-t-COVID}.
+
+\bibitem[{Federation(2021)}]{nationalwildlifefederation2021}
+Federation, N.~W. 2021.
+\newblock The great lakes.
+\newblock
+  \urlprefix\url{https://www.nwf.org/Educational-Resources/Wildlife-Guide/Wild-Places/Great-Lakes}.
+
+\bibitem[{Fekete et~al.(2010)Fekete, Wisser, Kroeze, Mayorga, Bouwman,
+  Wollheim, and V{\"o}r{\"o}smarty}]{fekete2010millennium}
+Fekete, B.~M., D.~Wisser, C.~Kroeze, E.~Mayorga, L.~Bouwman, W.~M. Wollheim,
+  and C.~V{\"o}r{\"o}smarty. 2010.
+\newblock Millennium ecosystem assessment scenario drivers (1970--2050):
+  climate and hydrological alterations.
+\newblock Global Biogeochemical Cycles, {\bf 24}.
+
+\bibitem[{Feng et~al.(2017)Feng, Zhao, Fu, Ding, and Wang}]{feng2017ecosystem}
+Feng, Q., W.~Zhao, B.~Fu, J.~Ding, and S.~Wang. 2017.
+\newblock Ecosystem service trade-offs and their influencing factors: A case
+  study in the loess plateau of china.
+\newblock Science of the Total Environment, {\bf 607}:1250--1263.
+
+\bibitem[{Feynman et~al.(1965)Feynman, Leighton, and
+  Sands}]{feynman1965feynman}
+Feynman, R.~P., R.~B. Leighton, and M.~Sands. 1965.
+\newblock The feynman lectures on physics; vol. i.
+\newblock American Journal of Physics, {\bf 33}:750--752.
+
+\bibitem[{Folch(2019)}]{folch2019hydropolitics}
+Folch, C. 2019.
+\newblock Hydropolitics: The Itaipu Dam, sovereignty, and the engineering of
+  modern South America.
+\newblock Princeton University Press.
+
+\bibitem[{for Science~Education(????)}]{centerforscienceeducation}
+for Science~Education, C. ????
+\newblock Monsoons.
+\newblock \urlprefix\url{https://scied.ucar.edu/learning-zone/storms/monsoons}.
+
+\bibitem[{Fox and
+  Caldwell(2006)}]{https://doi.org/10.1890/1051-0761(2006)016[1631:RFBFOC]2.0.CO;2}
+Fox, H.~E. and R.~L. Caldwell. 2006.
+\newblock Recovery from blast fishing on coral reefs : a tale of two scales.
+\newblock Ecological Applications, {\bf 16}:1631--1635.
+\newblock
+  \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282006%29016%5B1631%3ARFBFOC%5D2.0.CO%3B2}.
+
+\bibitem[{Fox and Vogler(2005)}]{fox2005land}
+Fox, J. and J.~B. Vogler. 2005.
+\newblock Land-use and land-cover change in montane mainland southeast asia.
+\newblock Environmental Management, {\bf 36}:394--403.
+
+\bibitem[{Frazier and Steffens(2019)}]{frazier2019thesnakes}
+Frazier, I. and G.~Steffens. 2019.
+\newblock The snakes that ate florida.
+\newblock Smithsonian Magazine, {\bf July/August}.
+
+\bibitem[{Fristachi et~al.(2008)Fristachi, Sinclair, Hall, Berkman, Boyer,
+  Burkholder, Burns, Carmichael, DuFour, Frazier
+  et~al.}]{fristachi2008occurrence}
+Fristachi, A., J.~L. Sinclair, S.~Hall, J.~A.~H. Berkman, G.~Boyer,
+  J.~Burkholder, J.~Burns, W.~Carmichael, A.~DuFour, W.~Frazier, et~al. 2008.
+\newblock Occurrence of cyanobacterial harmful algal blooms workgroup report.
+\newblock In Cyanobacterial harmful algal blooms: state of the science and
+  research needs, pages 45--103. Springer.
+
+\bibitem[{Fu et~al.(2010)Fu, Wu, L{\"u}, Xu, Cao, Niu, Yang, and
+  Zhou}]{fu2010three}
+Fu, B.-J., B.-F. Wu, Y.-H. L{\"u}, Z.-H. Xu, J.-H. Cao, D.~Niu, G.-S. Yang, and
+  Y.-M. Zhou. 2010.
+\newblock Three gorges project: efforts and challenges for the environment.
+\newblock Progress in Physical Geography, {\bf 34}:741--754.
+
+\bibitem[{Fu et~al.(2017)Fu, Schleifer, and Zhong}]{fu_schleifer_zhong_2017}
+Fu, X., L.~Schleifer, and L.~Zhong. 2017.
+\newblock Wastewater: The best hidden energy source you've never heard of.
+\newblock
+  \urlprefix\url{https://www.wri.org/insights/wastewater-best-hidden-energy-source-youve-never-heard}.
+
+\bibitem[{Fujita(2016)}]{fujita2016agriculture}
+Fujita, K. 2016.
+\newblock Agriculture and rural development strategy in myanmar: With a focus
+  on the rice sector.
+\newblock In The Myanmar Economy, pages 97--129. Springer.
+
+\bibitem[{Fund(2009)}]{scff2009climate}
+Fund, T. S. C.~C. 2009.
+\newblock Climate resilient infrastructure planning and coastal development in
+  vietnam.
+\newblock United Nations Development Program.
+
+\bibitem[{Furuichi et~al.(2009)Furuichi, Win, and
+  Wasson}]{furuichi2009discharge}
+Furuichi, T., Z.~Win, and R.~J. Wasson. 2009.
+\newblock Discharge and suspended sediment transport in the ayeyarwady river,
+  myanmar: centennial and decadal changes.
+\newblock Hydrological Processes: An International Journal, {\bf
+  23}:1631--1641.
+
+\bibitem[{Furuya et~al.(2014)Furuya, Kobayashi, and
+  Yamauchi}]{furuya2014impacts}
+Furuya, J., S.~Kobayashi, and K.~Yamauchi. 2014.
+\newblock Impacts of climate change on rice market and production capacity in
+  the lower mekong basin.
+\newblock Paddy and water environment, {\bf 12}:255--274.
+
+\bibitem[{Fussell et~al.(1986)Fussell, RUNDQUIST, and
+  Harrington}]{fussell1986defining}
+Fussell, J., D.~RUNDQUIST, and J.~Harrington. 1986.
+\newblock On defining remote sensing.
+\newblock Photogrammetric Engineering and Remote Sensing, {\bf 52}:1507--1511.
+
+\bibitem[{Garschagen and Kraas(2011)}]{garschagen2011urban}
+Garschagen, M. and F.~Kraas. 2011.
+\newblock Urban climate change adaptation in the context of transformation:
+  lessons from vietnam.
+\newblock In Resilient cities, pages 131--139. Springer.
+
+\bibitem[{Gilbert(2007)}]{gilbert2007indigenous}
+Gilbert, J. 2007.
+\newblock Indigenous rights in the making: The united nations declaration on
+  the rights of indigenous peoples.
+\newblock International Journal on Minority and Group Rights, {\bf
+  14}:207--230.
+
+\bibitem[{Gilley(2005)}]{gilley_erosion}
+Gilley, J. 2005.
+\newblock Erosion:water-induced.
+\newblock Encyclopedia of Soils in the Environment, pages 463--469.
+\newblock \urlprefix\url{https://doi.org/10.1016/B0-12-348530-4/00262-9}.
+
+\bibitem[{Glibert et~al.(2005)Glibert, Seitzinger, Heil, Burkholder, Parrow,
+  Codispoti, and Kelly}]{glibert2005eutrophication}
+Glibert, P.~M., S.~Seitzinger, C.~A. Heil, J.~M. Burkholder, M.~W. Parrow,
+  L.~A. Codispoti, and V.~Kelly. 2005.
+\newblock Eutrophication.
+\newblock Oceanography, {\bf 18}:198.
+
+\bibitem[{Goldman(2021)}]{Goldman.2019}
+Goldman, R. 2021.
+\newblock Myamar's coup and violence, explained.
+\newblock
+  \urlprefix\url{https://www.nytimes.com/article/myanmar-news-protests-coup.html}.
+
+\bibitem[{GovHK(2020{\natexlab{{\em a\/}}})}]{govhk2}
+GovHK. 2020{\natexlab{{\em a\/}}}.
+\newblock Hong kong---the facts.
+\newblock \urlprefix\url{https://www.gov.hk/en/about/abouthk/facts.htm}.
+
+\bibitem[{GovHK(2020{\natexlab{{\em b\/}}})}]{govhk1}
+GovHK. 2020{\natexlab{{\em b\/}}}.
+\newblock Hong kong geographic data (include area by district council).
+\newblock
+  \urlprefix\url{https://www.landsd.gov.hk/en/resources/mapping-information/hk-geographic-data.html}.
+
+\bibitem[{Graham(1999)}]{graham_NASA}
+Graham, S. 1999.
+\newblock Remote sensing: Introduction and history.
+\newblock
+  \urlprefix\url{https://earthobservatory.nasa.gov/features/RemoteSensing}.
+
+\bibitem[{Greenpeace(2018)}]{greenpeace}
+Greenpeace, M. 2018.
+\newblock The recycling myth.
+\newblock
+  \urlprefix\url{https://www.greenpeace.org/static/planet4-malaysia-stateless/2019/04/2fe6f833-the-recycling-myth-malaysia-and-the-broken-global-recycling-system.pdf}.
+
+\bibitem[{Grossman and Krueger(1991)}]{grossman1991environmental}
+Grossman, G.~M. and A.~B. Krueger. 1991.
+\newblock Environmental impacts of a north american free trade agreement.
+\newblock Technical report, National Bureau of economic research.
+
+\bibitem[{Gullen and Plungis(2013)}]{gullen2013statista}
+Gullen, A. and J.~Plungis. 2013.
+\newblock Statista.
+\newblock The Charleston Advisor, {\bf 15}:43--47.
+
+\bibitem[{Gupta et~al.(2012)Gupta, Kao, and Dai}]{gupta2012role}
+Gupta, H., S.-J. Kao, and M.~Dai. 2012.
+\newblock The role of mega dams in reducing sediment fluxes: A case study of
+  large asian rivers.
+\newblock Journal of Hydrology, {\bf 464}:447--458.
+
+\bibitem[{Gurjar et~al.(2010)Gurjar, Jain, Sharma, Agarwal, Gupta, Nagpure, and
+  Lelieveld}]{gurjar2010human}
+Gurjar, B., A.~Jain, A.~Sharma, A.~Agarwal, P.~Gupta, A.~Nagpure, and
+  J.~Lelieveld. 2010.
+\newblock Human health risks in megacities due to air pollution.
+\newblock Atmospheric Environment, {\bf 44}:4606--4613.
+
+\bibitem[{Hagen and Minter(2020)}]{agtadisplace}
+Hagen, R.~V. and T.~Minter. 2020.
+\newblock Displacement in the name of development. how indigenous rights
+  legislation fails to protect philippine hunter-gatherers.
+\newblock Society and Natural Resources, {\bf 33}:65–82.
+
+\bibitem[{Hajek and Edmonds(2014)}]{hajek2014river}
+Hajek, E.~A. and D.~Edmonds. 2014.
+\newblock Is river avulsion style controlled by floodplain morphodynamics?
+\newblock Geology, {\bf 42}:199--202.
+
+\bibitem[{Haraway(2016)}]{haraway2016staying}
+Haraway, D.~J. 2016.
+\newblock Staying with the trouble: Making kin in the Chthulucene.
+\newblock Duke University Press.
+
+\bibitem[{Harden(2008)}]{harden2008}
+Harden, B. 2008.
+\newblock Japan {Stanches} {Stench} of {Mass} {Trash} {Incinerators} -
+  washingtonpost.com.
+\newblock
+  \urlprefix\url{http://large.stanford.edu/publications/coal/references/harden/}.
+
+\bibitem[{Harre et~al.(1997)Harre, Price, Ayrey, Toop, Martin, and
+  Town}]{harre1997respiratory}
+Harre, E., P.~D. Price, R.~B. Ayrey, L.~J. Toop, I.~R. Martin, and G.~I. Town.
+  1997.
+\newblock Respiratory effects of air pollution in chronic obstructive pulmonary
+  disease: a three month prospective study.
+\newblock Thorax, {\bf 52}:1040--1044.
+
+\bibitem[{Hens et~al.(2018)Hens, Thinh, Hanh, Cuong, Lan, Van~Thanh, and
+  Le}]{hens2018sea}
+Hens, L., N.~A. Thinh, T.~H. Hanh, N.~S. Cuong, T.~D. Lan, N.~Van~Thanh, and
+  D.~T. Le. 2018.
+\newblock Sea-level rise and resilience in vietnam and the asia-pacific: A
+  synthesis.
+\newblock Vietnam Journal of Earth Sciences, {\bf 40}:126--152.
+
+\bibitem[{Hersher(2019)}]{hersher_2019}
+Hersher, R. 2019.
+\newblock Scientists dig into hard questions about the fluorinated pollutants
+  known as pfas.
+\newblock
+  \urlprefix\url{https://www.npr.org/sections/health-shots/2019/04/22/708863848/scientists-dig-into-hard-questions-about-the-fluorinated-pollutants-known-as-pfa}.
+
+\bibitem[{Higuchi and Norton(2008)}]{higuchi2008japan}
+Higuchi, K. and M.~G. Norton. 2008.
+\newblock Japan’s eco-towns and innovation clusters-synergy towards
+  sustainability.
+\newblock Global Environment, {\bf 1}:224--243.
+
+\bibitem[{Hlaing et~al.(2019)Hlaing, Htet, Dibley, and Lin}]{hlaing2019chronic}
+Hlaing, L.~M., M.~K. Htet, M.~Dibley, and H.~Lin. 2019.
+\newblock Chronic undernutrition and food insecurity among children and
+  adolescent girls in myanmar (p04-052-19).
+\newblock Current developments in nutrition, {\bf 3}:nzz051--P04.
+
+\bibitem[{Hoogervorst(2012)}]{boatpeople}
+Hoogervorst, T.~G. 2012.
+\newblock Ethnicity and aquatic lifestyles: exploring southeast asia’s past
+  and present seascapes.
+\newblock Water History, {\bf 4}:245--265.
+\newblock
+  \urlprefix\url{https://link.springer.com/article/10.1007%2Fs12685-012-0060-0}.
+
+\bibitem[{Houghton et~al.(2012)Houghton, House, Pongratz, Werf
+  et~al.}]{houghton20122012}
+Houghton, R., J.~House, J.~Pongratz, G.~Werf, et~al. 2012.
+\newblock a. et al., 2012. carbon emissions from land use and land-cover
+  change.
+\newblock Biogeosciences, {\bf 9}:5125--5142.
+
+\bibitem[{Hoy(2018)}]{hoy}
+Hoy, S. 2018.
+\newblock Mottainai reduce reuse recycle - and respect.
+\newblock
+  \urlprefix\url{https://www.gov-online.go.jp/pdf/hlj/20180701/28-29.pdf}.
+
+\bibitem[{Huadong(2013)}]{huadong2013earth}
+Huadong, G. 2013.
+\newblock Earth observation in china and the world: History and development in
+  50 years.
+\newblock Bulletin of the Chinese Academy of Sciences, {\bf 27}:96--98.
+
+\bibitem[{Hubbard et~al.(2014)Hubbard, Hynes, Erlandson, and
+  Bailey}]{hubbard2014biochemistry}
+Hubbard, M., R.~K. Hynes, M.~Erlandson, and K.~L. Bailey. 2014.
+\newblock The biochemistry behind biopesticide efficacy.
+\newblock Sustainable Chemical Processes, {\bf 2}:1--8.
+
+\bibitem[{Hughes(2019)}]{hughes_2019}
+Hughes, J. 2019.
+\newblock Press release: Biogas can fill important place in climate emergency
+  agenda says un climate change.
+\newblock
+  \urlprefix\url{https://www.worldbiogasassociation.org/press-release-biogas-can-fill-important-place-in-climate-emergency-agenda-says-un-climate-change/}.
+
+\bibitem[{Hung et~al.(2007)Hung, Gong, Chen, Hsieh, Santschi, Wade, and
+  Sericano}]{hung2007relationships}
+Hung, C.-C., G.-C. Gong, H.-Y. Chen, H.-L. Hsieh, P.~H. Santschi, T.~L. Wade,
+  and J.~L. Sericano. 2007.
+\newblock Relationships between pesticides and organic carbon fractions in
+  sediments of the danshui river estuary and adjacent coastal areas of taiwan.
+\newblock Environmental Pollution, {\bf 148}:546--554.
+
+\bibitem[{Huong and Pathirana(2013)}]{huong2013urbanization}
+Huong, H. T.~L. and A.~Pathirana. 2013.
+\newblock Urbanization and climate change impacts on future urban flooding in
+  can tho city, vietnam.
+\newblock Hydrology and Earth System Sciences, {\bf 17}:379--394.
+
+\bibitem[{Huynh et~al.(2021)Huynh, Harada, Fujii, Nguyen, Hoang, and
+  Huynh}]{huynh}
+Huynh, L.~T., H.~Harada, S.~Fujii, L.~P.~H. Nguyen, T.-H.~T. Hoang, and H.~T.
+  Huynh. 2021.
+\newblock Greenhouse gas emissions from blackwater septic systems.
+\newblock Environmental science \& technology, {\bf 55}:1209--1217.
+
+\bibitem[{Imura et~al.(????)Imura, Yedla, Shirakawa, and Memon}]{ir}
+Imura, H., S.~Yedla, H.~Shirakawa, and M.~A. Memon. ????
+\newblock Inter-research "eci home.
+\newblock \urlprefix\url{https://www.int-res.com/ecology-institute/eci-home/}.
+
+\bibitem[{Index(????)}]{hedleyenvind}
+Index, H.~E. ????
+\newblock Hedley environmental index.
+\newblock \urlprefix\url{http://hedleyindex.sph.hku.hk/.}
+
+\bibitem[{Institute~of Botany(2021)}]{CAS2021researchers}
+Institute~of Botany, C. A. o.~S. 2021.
 \newblock Researchers reveal regulatory mechanisms of the temperature
-  sensitivity of soil organic matter decomposition in alpine grasslands, 2021.
-\newblock URL
-  \url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
+  sensitivity of soil organic matter decomposition in alpine grasslands.
+\newblock
+  \urlprefix\url{http://english.ib.cas.cn/Research/Progress/201911/t20191129_226584.html}.
 
-\bibitem[Lee et~al.(2017)Lee, Lee, Hamm, and Kim]{lee2017fifty}
-Jin-Yong Lee, Kang-Kun Lee, Se-Yeong Hamm, and Yongcheol Kim.
+\bibitem[{IPEN(????)}]{ipen}
+IPEN. ????
+\newblock Pfas.
+\newblock \urlprefix\url{https://ipen.org/tags/pfas}.
+
+\bibitem[{Isderion(2013)}]{isderion_2013}
+Isderion. 2013.
+\newblock Floating Market Can Tho.
+\newblock
+  \urlprefix\url{https://commons.wikimedia.org/wiki/File:Floating_Market_Can_Tho1.jpg}.
+
+\bibitem[{Iwami et~al.(2001)}]{iwami2001advantage}
+Iwami, T. et~al. 2001.
+\newblock "'advantage of late-comer'in abating air-pollution: Experience in
+  east asia"(in japanese).
+\newblock Technical report, CIRJE, Faculty of Economics, University of Tokyo.
+
+\bibitem[{Jackson and Sleigh(2000)}]{jackson2000resettlement}
+Jackson, S. and A.~Sleigh. 2000.
+\newblock Resettlement for china's three gorges dam: socio-economic impact and
+  institutional tensions.
+\newblock Communist and Post-Communist Studies, {\bf 33}:223--241.
+
+\bibitem[{Jansen(1983)}]{jansen1983dams}
+Jansen, R.~B. 1983.
+\newblock Dams and public safety.
+\newblock US Department of the Interior, Bureau of Reclamation.
+
+\bibitem[{Jansen(2012)}]{jansen2012advanced}
+Jansen, R.~B. 2012.
+\newblock Advanced dam engineering for design, construction, and
+  rehabilitation.
+\newblock Springer Science \& Business Media.
+
+\bibitem[{Japan Environmental Sanitation~Center(2014)}]{hcswm}
+Japan Environmental Sanitation~Center, M. o. t.~E. 2014.
+\newblock History and current state of waste management in {Japan}.
+\newblock
+  \urlprefix\url{https://www.env.go.jp/en/recycle/smcs/attach/hcswm.pdf}.
+
+\bibitem[{Jaramillo(2020)}]{jaramillo}
+Jaramillo, J. 2020.
+\newblock Is {Japan}'s {High} {Recycling} {Rate} {Enough}?
+\newblock
+  \urlprefix\url{https://www.earthisland.org/journal/index.php/articles/entry/japans-high-recycling-rate-plastic/}.
+
+\bibitem[{Jenny(1994)}]{jenny1994factors}
+Jenny, H. 1994.
+\newblock Factors of soil formation: a system of quantitative pedology.
+\newblock Courier Corporation.
+
+\bibitem[{Jia et~al.(2017)Jia, Zhu, Luo et~al.}]{jia2017soil}
+Jia, X., Y.~Zhu, Y.~Luo, et~al. 2017.
+\newblock Soil moisture decline due to afforestation across the loess plateau,
+  china.
+\newblock Journal of Hydrology, {\bf 546}:113--122.
+
+\bibitem[{Jian et~al.(2000)Jian, Xueguang, Fasen, Song, and
+  Song}]{jian2000study}
+Jian, L., G.~Xueguang, X.~Fasen, W.~Song, and L.~Song. 2000.
+\newblock Study on the development of snail habitat in three gorges reservoir
+  area inundated temporarily by flood.
+\newblock Journal of Practical Parasitic Diseases, {\bf 3}.
+
+\bibitem[{Jian et~al.(2015)Jian, Zhao, Fang, and Yu}]{jian2015effects}
+Jian, S., C.~Zhao, S.~Fang, and K.~Yu. 2015.
+\newblock Effects of different vegetation restoration on soil water storage and
+  water balance in the chinese loess plateau.
+\newblock Agricultural and Forest Meteorology, {\bf 206}:85--96.
+
+\bibitem[{Jiang et~al.(2011)Jiang, Fischer, and Lu}]{jiang2011larger}
+Jiang, T., T.~Fischer, and X.~Lu. 2011.
+\newblock Larger asian rivers: climate, hydrology and ecosystems.
+
+\bibitem[{Jim and Yang(2006)}]{jim2006local}
+Jim, C.~Y. and F.~Y. Yang. 2006.
+\newblock Local responses to inundation and de-farming in the reservoir region
+  of the three gorges project (china).
+\newblock Environmental Management, {\bf 38}:618--637.
+
+\bibitem[{Jo and White(2013)}]{jo2013polluted}
+Jo, C.~Y. and L.~White. 2013.
+\newblock Polluted air or policy advance in h ong k ong-g uangdong?
+\newblock Asian Politics \& Policy, {\bf 5}:77--106.
+
+\bibitem[{Johnston(2020)}]{johnston2020}
+Johnston, E. 2020.
+\newblock Awareness of issue of plastic garbage in {Japan} slowly gaining steam
+  {\textbar} {The} {Japan} {Times}.
+\newblock
+  \urlprefix\url{https://www.japantimes.co.jp/news/2020/01/03/national/awareness-issue-plastic-garbage-japan-slowly-gaining-steam/}.
+
+\bibitem[{Kan et~al.(2010)Kan, Wong, Vichit-Vadakan, Qian
+  et~al.}]{kan2010short}
+Kan, H., C.-M. Wong, N.~Vichit-Vadakan, Z.~Qian, et~al. 2010.
+\newblock Short-term association between sulfur dioxide and daily mortality:
+  The public health and air pollution in asia (papa) study.
+\newblock Environmental research, {\bf 110}:258--264.
+
+\bibitem[{Karim et~al.(1997)Karim, Fracheboud, and Stamp}]{karim1997heat}
+Karim, M., Y.~Fracheboud, and P.~Stamp. 1997.
+\newblock Heat tolerance of maize with reference to some physiological
+  characteristics.
+
+\bibitem[{Kaur(2020)}]{kaur2020role}
+Kaur, L. 2020.
+\newblock Role of phytoremediation strategies in removal of heavy metals.
+\newblock Emerging Issues in the Water Environment during Anthropocene, pages
+  223--259.
+
+\bibitem[{Keddy(2001)}]{Keddy2001competition}
+Keddy, P.~A. 2001.
+\newblock The Competition.
+\newblock Kluwer Academic Publishers.
+
+\bibitem[{Keller et~al.(2009)Keller, Gleason, Mcleod, Woodley, Airam{\'e},
+  Causey, Friedlander, Grober-Dunsmore, Johnson, Miller, and
+  Steneck}]{Keller2009ClimateCC}
+Keller, B., D.~Gleason, E.~Mcleod, C.~Woodley, S.~Airam{\'e}, B.~Causey,
+  A.~Friedlander, R.~Grober-Dunsmore, J.~Johnson, S.~L. Miller, and R.~Steneck.
+  2009.
+\newblock Climate change, coral reef ecosystems, and management options for
+  marine protected areas.
+\newblock Environmental Management, {\bf 44}:1069 -- 1088.
+
+\bibitem[{Kelly(2012)}]{kelly2012yin}
+Kelly, B. 2012.
+\newblock The yin and yang of climate change: Chinese medicine and cultural
+  transformation.
+\newblock The Journal of Chinese Medicine, page~51.
+
+\bibitem[{Keong(2005)}]{keong2005energy}
+Keong, C.~Y. 2005.
+\newblock Energy demand, economic growth, and energy efficiency—the bakun
+  dam-induced sustainable energy policy revisited.
+\newblock Energy policy, {\bf 33}:679--689.
+
+\bibitem[{Khawam and Flanagan(2006)}]{khawam2006solid}
+Khawam, A. and D.~R. Flanagan. 2006.
+\newblock Solid-state kinetic models: basics and mathematical fundamentals.
+\newblock The journal of physical chemistry B, {\bf 110}:17315--17328.
+
+\bibitem[{Kimmerer(2018)}]{kimmerer2018mishkos}
+Kimmerer, R.~W. 2018.
+\newblock Mishkos kenomagwen, the lessons of grass: Restoring reciprocity with
+  the good green earth.
+\newblock Nelson and Shilling, eds., Traditional Ecological Knowledge. Learning
+  from Indigenous Practices for Environmental Sustainability, pages 27--56.
+
+\bibitem[{King et~al.(2010)King, Davidson, and
+  Anderson-Berry}]{king2010disaster}
+King, D., J.~Davidson, and L.~Anderson-Berry. 2010.
+\newblock Disaster mitigation and societal impacts.
+\newblock In Global perspectives on tropical cyclones: From science to
+  mitigation, pages 409--436. World Scientific.
+
+\bibitem[{Kittinger et~al.(2009)Kittinger, Coontz, Yuan, Han, Zhao, and
+  Wilcox}]{kittinger2009toward}
+Kittinger, J.~N., K.~M. Coontz, Z.~Yuan, D.~Han, X.~Zhao, and B.~A. Wilcox.
+  2009.
+\newblock Toward holistic evaluation and assessment: linking ecosystems and
+  human well-being for the three gorges dam.
+\newblock EcoHealth, {\bf 6}:601--613.
+
+\bibitem[{Kittisilpa(2018)}]{kittisilpa_southeast_2018}
+Kittisilpa, P.~T., Juarawee. 2018.
+\newblock Southeast {Asia}'s plastic 'addiction' blights world's oceans.
+\newblock Reuters.
+\newblock
+  \urlprefix\url{https://www.reuters.com/article/us-environment-day-plastic-idUSKCN1J10LM}.
+
+\bibitem[{Klock(1995)}]{klock1995agricultural}
+Klock, J.~S. 1995.
+\newblock Agricultural and forest policies of the american colonial regime in
+  ifugao territory, luzon, philippines, 1901-1945.
+\newblock Philippine quarterly of culture and society, {\bf 23}:3--19.
+
+\bibitem[{Ko et~al.(2007)Ko, Tam, Wong, Chan, Tung, Lai, and
+  Hui}]{ko2007temporal}
+Ko, F.~W., W.~Tam, T.~W. Wong, D.~P. Chan, A.~H. Tung, C.~K. Lai, and D.~S.
+  Hui. 2007.
+\newblock Temporal relationship between air pollutants and hospital admissions
+  for chronic obstructive pulmonary disease in hong kong.
+\newblock Thorax, {\bf 62}:780--785.
+
+\bibitem[{Kravitz et~al.(1999)Kravitz, Nyaphisi, Mandel, and
+  Petersen}]{kravitz1999quantitative}
+Kravitz, J., M.~Nyaphisi, R.~Mandel, and E.~Petersen. 1999.
+\newblock Quantitative bacterial examination of domestic water supplies in the
+  lesotho highlands: water quality, sanitation, and village health.
+\newblock Bulletin of the World Health Organization, {\bf 77}:829.
+
+\bibitem[{Kravtsova et~al.(2009)Kravtsova, Mikhailov, and
+  Kidyaeva}]{kravtsova2009hydrological}
+Kravtsova, V., V.~Mikhailov, and V.~Kidyaeva. 2009.
+\newblock Hydrological regime, morphological features and natural territorial
+  complexes of the irrawaddy river delta (myanmar).
+\newblock Water resources, {\bf 36}:243--260.
+
+\bibitem[{Kulkari(????)}]{kulkari}
+Kulkari, B. ????
+\newblock Phytoremediation process, water hyacinth, sewage treatment plants.
+\newblock
+  \urlprefix\url{https://www.fibre2fashion.com/industry-article/3390/phytoremediation-of-textile-process-effluent-by-using-water-hyacinth-a-polishing-treatment}.
+
+\bibitem[{Lai(2011)}]{lai2011discriminatory}
+Lai, L.~W. 2011.
+\newblock Discriminatory zoning in colonial hong kong.
+\newblock Property Management.
+
+\bibitem[{Land et~al.(2018)Land, De~Wit, Bignert, Cousins, Herzke, Johansson,
+  and Martin}]{land2018effect}
+Land, M., C.~A. De~Wit, A.~Bignert, I.~T. Cousins, D.~Herzke, J.~H. Johansson,
+  and J.~W. Martin. 2018.
+\newblock What is the effect of phasing out long-chain per-and polyfluoroalkyl
+  substances on the concentrations of perfluoroalkyl acids and their precursors
+  in the environment? a systematic review.
+\newblock Environmental Evidence, {\bf 7}:1--32.
+
+\bibitem[{Lanting(2021)}]{lanting_2021}
+Lanting, F. 2021.
+\newblock Grasshoppers.
+\newblock National Geographic.
+\newblock
+  \urlprefix\url{https://www.nationalgeographic.org/encyclopedia/biodiversity/}.
+
+\bibitem[{LaoDong and Review(2020)}]{laodong}
+LaoDong and E.~Review. 2020.
+\newblock Vietnam achieves poverty reduction goals.
+\newblock
+  \urlprefix\url{http://laodongxahoi.net/vietnam-achieves-poverty-reduction-goals-1318065.html}.
+
+\bibitem[{Lee(2015)}]{lee2015internet}
+Lee, F.~L. 2015.
+\newblock Internet, citizen self-mobilisation, and social movement
+  organisations in environmental collective action campaigns: Two hong kong
+  cases.
+\newblock Environmental Politics, {\bf 24}:308--325.
+
+\bibitem[{Lee et~al.(2017)Lee, Lee, Hamm, and Kim}]{lee2017fifty}
+Lee, J.-Y., K.-K. Lee, S.-Y. Hamm, and Y.~Kim. 2017.
 \newblock Fifty years of groundwater science in korea: a review and
   perspective.
-\newblock \emph{Geosciences Journal}, 21\penalty0 (6):\penalty0 951--969, 2017.
+\newblock Geosciences Journal, {\bf 21}:951--969.
 
-\bibitem[Los~Huertos(2018)]{LosHuertos2017OverviewR}
-Marc Los~Huertos.
-\newblock \emph{Overview of R}.
-\newblock Pomona College, 2018.
+\bibitem[{Lee et~al.(2015)Lee, Viswanathan, and Ali}]{lee2015compensation}
+Lee, W.~C., K.~K. Viswanathan, and J.~Ali. 2015.
+\newblock Compensation policy in a large development project: the case of the
+  bakun hydroelectric dam.
+\newblock International Journal of Water Resources Development, {\bf
+  31}:64--72.
 
-\bibitem[Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
-  Yang]{Qineaau1218}
-Shuqi Qin, Leiyi Chen, Kai Fang, Qiwen Zhang, Jun Wang, Futing Liu, Jianchun
-  Yu, and Yuanhe Yang.
+\bibitem[{Lee(2021)}]{lee2021}
+Lee, Y.~N. 2021.
+\newblock Here are the 10 biggest economies in the world before the pandemic vs
+  now.
+\newblock
+  \urlprefix\url{https://www.cnbc.com/2021/04/21/coronavirus-worlds-10-biggest-economies-before-covid-pandemic-vs-now.html}.
+
+\bibitem[{Lemp{\'e}ri{\`e}re(2017)}]{lemperiere2017dams}
+Lemp{\'e}ri{\`e}re, F. 2017.
+\newblock Dams and floods.
+\newblock Engineering, {\bf 3}:144--149.
+
+\bibitem[{Li et~al.(2019)Li, Sinha, Kim, and Lee}]{li2019role}
+Li, D.-X., P.~N. Sinha, S.~Kim, and Y.-K. Lee. 2019.
+\newblock The role of environmental justice in sustainable development in
+  china.
+\newblock Sustainable Development, {\bf 27}:162--174.
+
+\bibitem[{Li et~al.(2018)Li, Han, Lam, Zhu, and Bacon-Shone}]{li2018air}
+Li, V.~O., Y.~Han, J.~C. Lam, Y.~Zhu, and J.~Bacon-Shone. 2018.
+\newblock Air pollution and environmental injustice: Are the socially deprived
+  exposed to more pm2. 5 pollution in hong kong?
+\newblock Environmental science \& policy, {\bf 80}:53--61.
+
+\bibitem[{Liboiron(2016)}]{liboiron2016redefining}
+Liboiron, M. 2016.
+\newblock Redefining pollution and action: The matter of plastics.
+\newblock Journal of material culture, {\bf 21}:87--110.
+
+\bibitem[{Lirman and Schopmeyer(2021)}]{cgarden}
+Lirman and Schopmeyer. 2021.
+\newblock Coral gardening.
+\newblock The Nature Conservancy.
+\newblock
+  \urlprefix\url{https://reefresilience.org/restoration/coral-populations/coral-gardening/}.
+
+\bibitem[{List(2017)}]{list_working_2017}
+List, B. v.~d. 2017.
+\newblock Working to death: the fatal consequences of {Japan}'s overtime
+  culture.
+\newblock Risk Management, {\bf 64}:30--35.
+\newblock
+  \urlprefix\url{https://go.gale.com/ps/i.do?p=AONE&sw=w&issn=00355593&v=2.1&it=r&id=GALE%7CA491910455&sid=googleScholar&linkaccess=abs}.
+\newblock Publisher: Sabinet Online.
+
+\bibitem[{Liu(????)}]{liu}
+Liu, C. ????
+\newblock Innovative sludge-to-energy plant makes a breakthrough in china.
+\newblock
+  \urlprefix\url{https://www.newsecuritybeat.org/2016/05/innovative-sludge-to-energy-plant-breakthrough-china/}.
+
+\bibitem[{Liu and Liu(2020)}]{liu2020soil}
+Liu, J. and H.~Liu. 2020.
+\newblock Soil erosion changes during the last 30 years and contributions of
+  gully erosion to sediment yield in a small catchment, southern china.
+\newblock Geomorphology, {\bf 368}:107357.
+
+\bibitem[{Liu(2009)}]{liu_documentary}
+Liu, J.~D. 2009.
+\newblock Hope in a changing climate.
+\newblock \urlprefix\url{https://www.youtube.com/watch?v=bLdNhZ6kAzo}.
+
+\bibitem[{Liu et~al.(2012)Liu, Liu, Johnson, Yi, and Huang}]{liu2012effects}
+Liu, L., D.~Liu, D.~M. Johnson, Z.~Yi, and Y.~Huang. 2012.
+\newblock Effects of vertical mixing on phytoplankton blooms in xiangxi bay of
+  three gorges reservoir: implications for management.
+\newblock Water research, {\bf 46}:2121--2130.
+
+\bibitem[{Liu et~al.(2013)Liu, Bai, Cao, Liu, Ding, Childs-Johnson,
+  Falkenhausen, Jiao, Lee, Li et~al.}]{liu2013chinese}
+Liu, Q., Y.~Bai, N.~Cao, X.~Liu, X.~Ding, E.~Childs-Johnson, L.~v.
+  Falkenhausen, T.~Jiao, Y.-K. Lee, Y.-t. Li, et~al. 2013.
+\newblock Chinese archaeology.
+
+\bibitem[{Liu et~al.(2015)Liu, Pan, Zhuang, Miralles, Teuling, Zhang, An, Dong,
+  Zhang, He et~al.}]{liu2015agriculture}
+Liu, Y., Z.~Pan, Q.~Zhuang, D.~G. Miralles, A.~J. Teuling, T.~Zhang, P.~An,
+  Z.~Dong, J.~Zhang, D.~He, et~al. 2015.
+\newblock Agriculture intensifies soil moisture decline in northern china.
+\newblock Scientific reports, {\bf 5}:1--9.
+
+\bibitem[{Liu et~al.(2016)Liu, Yang, Lin, Hubbard, Lv, and
+  Wang}]{liu2016narrowing}
+Liu, Z., X.~Yang, X.~Lin, K.~G. Hubbard, S.~Lv, and J.~Wang. 2016.
+\newblock Narrowing the agronomic yield gaps of maize by improved soil,
+  cultivar, and agricultural management practices in different climate zones of
+  northeast china.
+\newblock Earth Interactions, {\bf 20}:1--18.
+
+\bibitem[{Loh et~al.(????)Loh, Pillsbury, Lawson, and Kilburn}]{lohvision}
+Loh, C., M.~Pillsbury, A.~Lawson, and M.~Kilburn. ????
+\newblock A vision of a green pearl river delta: The ndrc’s 2008-2020 outline
+  plan for the prd.
+\newblock CHINA ENVIRONMENT SERIES, page 182.
+
+\bibitem[{Lohmann and Lechtenfeld(2015)}]{lohmann2015effect}
+Lohmann, S. and T.~Lechtenfeld. 2015.
+\newblock The effect of drought on health outcomes and health expenditures in
+  rural vietnam.
+\newblock World development, {\bf 72}:432--448.
+
+\bibitem[{Lupton(1965)}]{lupton1965government}
+Lupton, C. 1965.
+\newblock Government and people in hong kong 1841-1962: A constitutional
+  history.
+\newblock Journal of the Hong Kong Branch of the Royal Asiatic Society, pages
+  95--100.
+
+\bibitem[{LuY et~al.(2013)}]{luy2013apolicy}
+LuY, F. et~al. 2013.
+\newblock A policy-driven large scale ecological restoration: quantifying
+  ecosystem services changes in the loess plateau of china.
+\newblock PLoS One, {\bf 7}:e31782.
+
+\bibitem[{Lyons et~al.(2019)Lyons, Hill, Deshong, Mooney, and
+  Turpin}]{13772149520190801}
+Lyons, I., R.~Hill, S.~Deshong, G.~Mooney, and G.~Turpin. 2019.
+\newblock Putting uncertainty under the cultural lens of traditional owners
+  from the great barrier reef catchments.
+\newblock Regional Environmental Change, {\bf 19}:1597 -- 1610.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=137721495&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Macan-Maker(2008)}]{Macan-Maker.2008}
+Macan-Maker, M. 2008.
+\newblock Females hit worst by cyclone nargis.
+\newblock
+  \urlprefix\url{https://reliefweb.int/report/myanmar/myanmar-females-hit-worst-cyclone-nargis}.
+
+\bibitem[{MacKay(2002)}]{mackay2002rights}
+MacKay, F. 2002.
+\newblock The rights of indigenous peoples in international law.
+\newblock Human Rights and the Environment: Conflicts and Norms in a
+  Globalizing World, pages 17--18.
+
+\bibitem[{Mahoney(2020)}]{mahoney_japans_nodate}
+Mahoney, L. 2020.
+\newblock Japan’s plastic addiction is affecting oceans and burdening marine
+  life.
+\newblock
+  \urlprefix\url{https://japantoday.com/category/features/opinions/japan%E2%80%99s-plastic-addiction-is-affecting-oceans-and-burdening-marine-life}.
+
+\bibitem[{Mainardi~Fan et~al.(2017)Mainardi~Fan, Machado Vieira~Lisboa, Gomes
+  Villa~Trinidad, R{\'o}genes Monteiro~Pontes, Collischonn, Tucci, and
+  Costa~Buarque}]{mainardi2017first}
+Mainardi~Fan, F., A.~Machado Vieira~Lisboa, G.~Gomes Villa~Trinidad,
+  P.~R{\'o}genes Monteiro~Pontes, W.~Collischonn, C.~Tucci, and
+  D.~Costa~Buarque. 2017.
+\newblock First assessment of itaipu dam ensemble inflow forecasting system.
+\newblock In EGU General Assembly Conference Abstracts, page 8606.
+
+\bibitem[{Margulis et~al.(2010)Margulis, Hughes, Schneider, Pandey, Narain, and
+  Kemeny}]{margulis2010economics}
+Margulis, S., G.~Hughes, R.~Schneider, K.~Pandey, U.~Narain, and T.~Kemeny.
+  2010.
+\newblock Economics of adaptation to climate change: Synthesis report.
+
+\bibitem[{Mark(2009)}]{mark2009lack}
+Mark, C.-K. 2009.
+\newblock Lack of means or loss of will? the united kingdom and the
+  decolonization of hong kong, 1957--1967.
+\newblock The International History Review, {\bf 31}:45--71.
+
+\bibitem[{MarketWatch(2021)}]{marketwatch_2021}
+MarketWatch. 2021.
+\newblock Vietnam biopesticides market share ,size 2021 global opportunities,
+  trends, regional overview, global growth, leading company analysis, and key
+  country forecast to 2024.
+\newblock
+  \urlprefix\url{https://www.marketwatch.com/press-release/vietnam-biopesticides-market-share-size-2021-global-opportunities-trends-regional-overview-global-growth-leading-company-analysis-and-key-country-forecast-to-2024-2021-04-06}.
+
+\bibitem[{Martuzzi et~al.(2010)Martuzzi, Mitis, and Forastiere}]{martuzzi2010}
+Martuzzi, M., F.~Mitis, and F.~Forastiere. 2010.
+\newblock Inequalities, inequities, environmental justice in waste management
+  and health.
+\newblock European Journal of Public Health, {\bf 20}:21--26.
+\newblock \urlprefix\url{https://doi.org/10.1093/eurpub/ckp216}.
+
+\bibitem[{Mason et~al.(2019)Mason, Chan, Schooling, Sun, Yang, Yang, Barratt,
+  and Tian}]{mason2019air}
+Mason, T.~G., K.~P. Chan, C.~M. Schooling, S.~Sun, A.~Yang, Y.~Yang,
+  B.~Barratt, and L.~Tian. 2019.
+\newblock Air quality changes after hong kong shipping emission policy: An
+  accountability study.
+\newblock Chemosphere, {\bf 226}:616--624.
+
+\bibitem[{Matthew(????)}]{matthew}
+Matthew, K. ????
+\newblock The rivers that 'breathe' greenhouse gases.
+\newblock
+  \urlprefix\url{https://www.bbc.com/future/article/20210323-climate-change-the-rivers-that-breathe-greenhouse-gases}.
+
+\bibitem[{McClanahan and Muthiga(2016)}]{https://doi.org/10.1890/15-1492.1}
+McClanahan, T.~R. and N.~A. Muthiga. 2016.
+\newblock Geographic extent and variation of a coral reef trophic cascade.
+\newblock Ecology, {\bf 97}:1862--1872.
+\newblock
+  \urlprefix\url{https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/15-1492.1}.
+
+\bibitem[{McCool and Williams(2008)}]{mccool_erosion}
+McCool, D. and J.~Williams. 2008.
+\newblock Soil erosion by water.
+\newblock Encyclopedia of Ecology, pages 3284--3290.
+\newblock \urlprefix\url{https://doi.org/10.1016/B978-008045405-4.00296-2}.
+
+\bibitem[{McCoy(2019)}]{mccoy2019}
+McCoy, T. 2019.
+\newblock In a world drowning in trash, these cities have slashed waste by 80
+  percent.
+\newblock
+  \urlprefix\url{https://www.washingtonpost.com/lifestyle/2019/02/13/world-is-drowning-trash-can-zero-waste-save-it-before-its-too-late/}.
+
+\bibitem[{McCoy et~al.(2020)McCoy, Frank et~al.}]{mccoy2020organic}
+McCoy, T., D.~Frank, et~al. 2020.
+\newblock Organic vs. conventional (synthetic) pesticides: Advantages and
+  disadvantages.
+
+\bibitem[{McCurry(2011)}]{mccurry_japan_2011}
+McCurry, J. 2011.
+\newblock Japan streets ahead in global plastic recycling race.
+\newblock
+  \urlprefix\url{http://www.theguardian.com/environment/2011/dec/29/japan-leads-field-plastic-recycling}.
+\newblock Section: Environment.
+
+\bibitem[{Measham et~al.(2011)Measham, Preston, Smith, Brooke, Gorddard,
+  Withycombe, and Morrison}]{measham2011}
+Measham, T.~G., B.~L. Preston, T.~F. Smith, C.~Brooke, R.~Gorddard,
+  G.~Withycombe, and C.~Morrison. 2011.
+\newblock Adapting to climate change through local municipal planning: barriers
+  and challenges.
+\newblock Mitigation and Adaptation Strategies for Global Change, {\bf
+  16}:889--909.
+\newblock \urlprefix\url{https://doi.org/10.1007/s11027-011-9301-2}.
+
+\bibitem[{Merme et~al.(2014)Merme, Ahlers, and Gupta}]{merme2014private}
+Merme, V., R.~Ahlers, and J.~Gupta. 2014.
+\newblock Private equity, public affair: Hydropower financing in the mekong
+  basin.
+\newblock Global Environmental Change, {\bf 24}:20--29.
+
+\bibitem[{Ministry~of Foreign~Affairs(????)}]{ministry_of_foreign_affairs}
+Ministry~of Foreign~Affairs, R. o. C.~T. ????
+\newblock Pesticide problems.
+
+\bibitem[{Misachi(2018)}]{misachi_2018}
+Misachi, J. 2018.
+\newblock What percentage of the earth's water is drinkable?
+\newblock
+  \urlprefix\url{http://www.worldatlas.com/articles/what-percentage-of-the-earth-s-water-is-drinkable.html.}
+
+\bibitem[{Mitnik and Gade(2019)}]{mitnik2019historical}
+Mitnik, L.~M. and M.~Gade. 2019.
+\newblock A historical overview of remote sensing of the asian seas.
+\newblock In Remote Sensing of the Asian Seas, pages 39--59. Springer.
+
+\bibitem[{Miyake et~al.(2005)Miyake, Yura, Misaki, Ikeda, Usui, Iki, and
+  Shimizu}]{miyake2005}
+Miyake, Y., A.~Yura, H.~Misaki, Y.~Ikeda, T.~Usui, M.~Iki, and T.~Shimizu.
+  2005.
+\newblock Relationship between distance of schools from the nearest municipal
+  waste incineration plant and child health in {Japan}.
+\newblock European Journal of Epidemiology, {\bf 20}:1023--1029.
+
+\bibitem[{Moore(1979)}]{moore1979picture}
+Moore, G.~K. 1979.
+\newblock What is a picture worth? a history of remote sensing / what is the
+  value of an image? an overview of t {\ 'e} l {\' e} {\ 'e} tection.
+\newblock Hydrological Sciences Bulletin, {\bf 24}:477--485.
+
+\bibitem[{Mordor(????)}]{mordor}
+Mordor. ????
+\newblock Asia-pacific biopesticides market: Share: Analysis (2020 - 2025).
+\newblock
+  \urlprefix\url{https://www.mordorintelligence.com/industry-reports/asia-pacific-biopesticides-market-industry}.
+
+\bibitem[{Morin(2014)}]{Morin_2014}
+Morin, R. 2014.
+\newblock A lifesaving transplant for coral reefs.
+\newblock The New York Times.
+\newblock
+  \urlprefix\url{https://www.nytimes.com/2014/11/25/science/a-lifesaving-transplant-for-coral-reefs.html}.
+
+\bibitem[{Munn(2013)}]{munn2013anglo}
+Munn, C. 2013.
+\newblock Anglo-China: Chinese People and British Rule in Hong Kong, 1841-1880.
+\newblock Routledge.
+
+\bibitem[{Museum(????)}]{smithsonian}
+Museum, S.~N. ????
+\newblock Looking at earth: The sky spies.
+\newblock
+  \urlprefix\url{https://airandspace.si.edu/exhibitions/looking-at-earth/online/the-sky-spies/}.
+
+\bibitem[{Mustafa and Hayder(2020)}]{mustafa2020recent}
+Mustafa, H.~M. and G.~Hayder. 2020.
+\newblock Recent studies on applications of aquatic weed plants in
+  phytoremediation of wastewater: A review article.
+\newblock Ain Shams Engineering Journal.
+
+\bibitem[{Myint(2018)}]{myint2018myanmar}
+Myint, T. 2018.
+\newblock Myanmar’s rice industry and policies towards value addition and
+  export.
+\newblock FFTC Agricultural Policy Platform (FFTC-AP), Food and Fertilizer
+  Technology Center for the Asian and Pacific Region.
+
+\bibitem[{Naing et~al.(2008)Naing, Kingsbury, Buerkert, and
+  Finckh}]{naing2008survey}
+Naing, T. A.~A., A.~Kingsbury, A.~Buerkert, and M.~R. Finckh. 2008.
+\newblock A survey of myanmar rice production and constraints.
+\newblock Journal of Agriculture and Rural Development in the Tropics and
+  Subtropics (JARTS), {\bf 109}:151--168.
+
+\bibitem[{Nakatani et~al.(2020)Nakatani, Maruyama, and
+  Moriguchi}]{nakatani_revealing_2020}
+Nakatani, J., T.~Maruyama, and Y.~Moriguchi. 2020.
+\newblock Revealing the intersectoral material flow of plastic containers and
+  packaging in {Japan}.
+\newblock Proceedings of the National Academy of Sciences, {\bf
+  117}:19844--19853.
+\newblock \urlprefix\url{https://www.pnas.org/content/117/33/19844}.
+\newblock Publisher: National Academy of Sciences Section: Social Sciences.
+
+\bibitem[{Nellemann et~al.(2011)Nellemann, Verma, and
+  Hislop}]{nellemann2011women}
+Nellemann, C., R.~Verma, and L.~Hislop. 2011.
+\newblock Women at the frontline of climate change: Gender risks and hopes.
+\newblock A Rapid Response Assessment. United Nations Environment Programme,
+  GRID-Arendal.
+
+\bibitem[{Nelwan(2019)}]{nelwan2019schistosomiasis}
+Nelwan, M.~L. 2019.
+\newblock Schistosomiasis: life cycle, diagnosis, and control.
+\newblock Current Therapeutic Research, {\bf 91}:5--9.
+
+\bibitem[{Neumayer(2003)}]{neumayer2003weak}
+Neumayer, E. 2003.
+\newblock Weak versus strong sustainability: exploring the limits of two
+  opposing paradigms.
+\newblock Edward Elgar Publishing.
+
+\bibitem[{Neumayer(2012)}]{neumayer2012human}
+Neumayer, E. 2012.
+\newblock Human development and sustainability.
+\newblock Journal of Human Development and Capabilities, {\bf 13}.
+
+\bibitem[{Ng et~al.(2013)Ng, Loh, Lin, Booth, Chan, Yip, Li, and
+  Lau}]{ng2013policy}
+Ng, S.~K., C.~Loh, C.~Lin, V.~Booth, J.~W. Chan, A.~C. Yip, Y.~Li, and A.~K.
+  Lau. 2013.
+\newblock Policy change driven by an ais-assisted marine emission inventory in
+  hong kong and the pearl river delta.
+\newblock Atmospheric environment, {\bf 76}:102--112.
+
+\bibitem[{Nguyen(2015)}]{nguyen2015deltaic}
+Nguyen, P.~N. 2015.
+\newblock Deltaic urbanism for living with flooding in Southern Vietnam.
+\newblock Ph.D. thesis, Queensland University of Technology.
+
+\bibitem[{Nguyen et~al.(2017)Nguyen, Pittock, and
+  Nguyen}]{nguyen2017integration}
+Nguyen, T.~T., J.~Pittock, and B.~H. Nguyen. 2017.
+\newblock Integration of ecosystem-based adaptation to climate change policies
+  in viet nam.
+\newblock Climatic change, {\bf 142}:97--111.
+
+\bibitem[{Nguyen et~al.(2013)Nguyen, Tenhunen et~al.}]{nguyen2013linking}
+Nguyen, T.~T., J.~Tenhunen, et~al. 2013.
+\newblock Linking regional land use and payments for forest hydrological
+  services: A case study of hoa binh reservoir in vietnam.
+\newblock Land use policy, {\bf 33}:130--140.
+
+\bibitem[{Nicolopoulou-Stamati et~al.(2016)Nicolopoulou-Stamati, Maipas,
+  Kotampasi, Stamatis, and Hens}]{nicolopoulou2016chemical}
+Nicolopoulou-Stamati, P., S.~Maipas, C.~Kotampasi, P.~Stamatis, and L.~Hens.
+  2016.
+\newblock Chemical pesticides and human health: the urgent need for a new
+  concept in agriculture.
+\newblock Frontiers in public health, {\bf 4}:148.
+
+\bibitem[{NOAA(????)}]{noaaclimate.gov}
+NOAA. ????
+\newblock Climate models.
+
+\bibitem[{NOAA(2019{\natexlab{{\em a\/}}})}]{coraldiseasenoaa}
+NOAA. 2019{\natexlab{{\em a\/}}}.
+\newblock Coral diseases: Corals tutorial.
+\newblock
+  \urlprefix\url{https://oceanservice.noaa.gov/education/tutorial_corals/coral10_disease.html}.
+
+\bibitem[{NOAA(2019{\natexlab{{\em b\/}}})}]{noaa}
+NOAA. 2019{\natexlab{{\em b\/}}}.
+\newblock Marine life: Coral reef ecosystems.
+\newblock US Department of Commerce, National Oceanic and Atmospheric
+  Administration.
+\newblock
+  \urlprefix\url{https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems}.
+
+\bibitem[{Norberg-Hodge(2000)}]{norberg2000ancient}
+Norberg-Hodge, H. 2000.
+\newblock Ancient futures: learning from Ladakh.
+\newblock Random House.
+
+\bibitem[{NRDC(1991)}]{nrdc}
+NRDC, o. 1991.
+\newblock The principles of envrionmental justice.
+\newblock
+  \urlprefix\url{https://www.nrdc.org/sites/default/files/ej-principles.pdf}.
+
+\bibitem[{NZDL(????)}]{nzdl}
+NZDL. ????
+\newblock
+  \urlprefix\url{http://www.nzdl.org/cgi-bin/library?e=d-00000-00---off-0cdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&cl=CL2.7&d=HASH01126ded49ea86cbd5af6b15.4.2.14%3E.}
+
+\bibitem[{of~Agriculture(2016)}]{USDA_USLE}
+of~Agriculture, U.~D. 2016.
+\newblock Usle history.
+\newblock Agriculture Research Service.
+\newblock
+  \urlprefix\url{https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/docs/usle-database/usle-history/#:~:text=USLE%20as%20a%20complete%20technology,in%20USDA%20Agriculture%20Handbook%20282.&text=The%20Revised%20Universal%20Soil%20Loss,for%20public%20use%20in%201992.}
+
+\bibitem[{of~Resources and Environment(2010)}]{monre2010climate}
+of~Resources, M. and Environment. 2010.
+\newblock Climate change and sea level rise scenarios for vietnam.
+\newblock Ministry of Natural resources and Environment. Hanoi, Vietnam.
+
+\bibitem[{of~the Johns Hopkins~University(1948)}]{remote_earth}
+of~the Johns Hopkins~University, A. S.~L. 1948.
+\newblock Small steps.
+\newblock
+  \urlprefix\url{https://www.nasa.gov/sites/default/files/images/316209main_smallsteps-v2_full.jpg}.
+
+\bibitem[{Office(2009)}]{who2004report}
+Office, W. H. O. W. P.~R. 2009.
+\newblock Report on morbidity and mortality from flooding in central viet nam
+  2003.
+\newblock Emergency and Humanitarian Action Programme.
+
+\bibitem[{Oh-e et~al.(2007)Oh-e, Saitoh, and Kuroda}]{oh2007effects}
+Oh-e, I., K.~Saitoh, and T.~Kuroda. 2007.
+\newblock Effects of high temperature on growth, yield and dry-matter
+  production of rice grown in the paddy field.
+\newblock Plant production science, {\bf 10}:412--422.
+
+\bibitem[{Olsen(2015)}]{olsen2015}
+Olsen, R. 2015.
+\newblock The wealthiest neighborhood on earth: Deep water bay.
+\newblock
+  \urlprefix\url{https://www.forbes.com/sites/robertolsen/2015/07/29/the-wealthiest-neighborhood-on-earth-deep-water-bay/?sh=6e50939087f5}.
+
+\bibitem[{Omori et~al.(2020)Omori, Sakai, Miyamoto, Itou, Oo, and
+  Hirano}]{omori2020assessment}
+Omori, K., T.~Sakai, J.~Miyamoto, A.~Itou, A.~N. Oo, and A.~Hirano. 2020.
+\newblock Assessment of paddy fields’ damage caused by cyclone nargis using
+  modis time-series images (2004--2013).
+\newblock Paddy and Water Environment, pages 1--11.
+
+\bibitem[{OregonState(????)}]{oregonstate}
+OregonState. ????
+\newblock A. history of pesticide use.
+\newblock \urlprefix\url{http://people.oregonstate.edu/~muirp/pesthist.htm}.
+
+\bibitem[{Ortiz(2018)}]{ortiz2018indigenous}
+Ortiz, S. 2018.
+\newblock Indigenous sustainability: Language, community, wholeness, and
+  solidarity.
+\newblock In Traditional Ecological Knowledge: Learning from Indigenous
+  Practices for Environmental Sustainability, pages 85--94. Cambridge
+  University Press.
+
+\bibitem[{Palma et~al.(2014)Palma, Manula, Gaudiano, and
+  Matillano}]{coraltriangle}
+Palma, J., J.~Manula, J.~P. Gaudiano, and M.~Matillano. 2014.
+\newblock Economies of Fisherues and Aquaculture in the Coral Triangle.
+
+\bibitem[{Patterson and Runnells(2003)}]{patterson2003geochemistry}
+Patterson, C. and D.~Runnells. 2003.
+\newblock Sorption.
+\newblock Encyclopedia of Physical Science and Technology, pages 531--547.
+
+\bibitem[{Paustian et~al.(2016)Paustian, Lehmann, Ogle, Reay, Robertson, and
+  Smith}]{paustian2016climate}
+Paustian, K., J.~Lehmann, S.~Ogle, D.~Reay, G.~P. Robertson, and P.~Smith.
+  2016.
+\newblock Climate-smart soils.
+\newblock Nature, {\bf 532}:49--57.
+
+\bibitem[{Paz and Rodriguez(2016)}]{paz2016factors}
+Paz, C. and T.~Rodriguez. 2016.
+\newblock Factors of soil formation.
+\newblock Encyclopedia of soil science.
+
+\bibitem[{Pearce(2003)}]{wwfcyanide}
+Pearce, F. 2003.
+\newblock Cyanide: an easy but deadly way to catch fish.
+\newblock World Wildlife Foundation.
+\newblock
+  \urlprefix\url{https://wwf.panda.org/wwf_news/?5563/Cyanide-an-easy-but-deadly-way-to-catch-fish}.
+
+\bibitem[{Pebler(2015)}]{pebler}
+Pebler, P.~T. 2015.
+\newblock Double vault composting latrines in rural paraguay: Feasible
+  construction and optimal use.
+
+\bibitem[{Peh(2010)}]{peh2010invasive}
+Peh, K. S.-H. 2010.
+\newblock Invasive species in southeast asia: the knowledge so far.
+\newblock Biodiversity and Conservation, {\bf 19}:1083--1099.
+
+\bibitem[{Pelton(2017)}]{Pelton_2017}
+Pelton, B. 2017.
+\newblock Why reefs matter.
+\newblock \urlprefix\url{https://marine.unc.edu/reefs-matter/}.
+
+\bibitem[{Peng et~al.(2016)Peng, Liu, and Sun}]{peng2016spatial}
+Peng, L., S.~Liu, and L.~Sun. 2016.
+\newblock Spatial--temporal changes of rurality driven by urbanization and
+  industrialization: A case study of the three gorges reservoir area in
+  chongqing, china.
+\newblock Habitat International, {\bf 51}:124--132.
+
+\bibitem[{Peng et~al.(2004)Peng, Huang, Sheehy, Laza, Visperas, Zhong, Centeno,
+  Khush, and Cassman}]{peng2004rice}
+Peng, S., J.~Huang, J.~E. Sheehy, R.~C. Laza, R.~M. Visperas, X.~Zhong, G.~S.
+  Centeno, G.~S. Khush, and K.~G. Cassman. 2004.
+\newblock Rice yields decline with higher night temperature from global
+  warming.
+\newblock Proceedings of the National Academy of Sciences, {\bf
+  101}:9971--9975.
+
+\bibitem[{Penna et~al.(2020)Penna, Geris, Hopp, and
+  Scandellari}]{penna2020water}
+Penna, D., J.~Geris, L.~Hopp, and F.~Scandellari. 2020.
+\newblock Water sources for root water uptake: Using stable isotopes of
+  hydrogen and oxygen as a research tool in agricultural and agroforestry
+  systems.
+\newblock Agriculture, Ecosystems \& Environment, {\bf 291}:106790.
+
+\bibitem[{Perkins(2019)}]{perkins_2019}
+Perkins, T. 2019.
+\newblock Biosolids: mix human waste with toxic chemicals, then spread on
+  crops.
+\newblock
+  \urlprefix\url{https://www.theguardian.com/environment/2019/oct/05/biosolids-toxic-chemicals-pollution}.
+
+\bibitem[{Persoon and
+  Minter(2020)}]{RePEc:gam:jsusta:v:12:y:2020:i:19:p:7983-:d:420111}
+Persoon, G.~A. and T.~Minter. 2020.
+\newblock Knowledge and practices of indigenous peoples in the context of
+  resource management in relation to climate change in southeast asia.
+\newblock Sustainability, {\bf 12}:1--23.
+\newblock
+  \urlprefix\url{https://ideas.repec.org/a/gam/jsusta/v12y2020i19p7983-d420111.html}.
+
+\bibitem[{Pimm(2020)}]{britannica2020conservation}
+Pimm, S.~L. 2020.
+\newblock Conservation.
+\newblock Encyclopaedia Britannica, Inc.
+\newblock
+  \urlprefix\url{https://www.britannica.com/science/conservation-ecology}.
+
+\bibitem[{Pink(2016)}]{pink2016vietnam}
+Pink, R.~M. 2016.
+\newblock Vietnam: A struggle against climate-change drought.
+\newblock In Water Rights in Southeast Asia and India, pages 207--225.
+  Springer.
+
+\bibitem[{Poeplau et~al.(2011)Poeplau, Don, Vesterdal, Leifeld, Van~Wesemael,
+  Schumacher, and Gensior}]{poeplau2011temporal}
+Poeplau, C., A.~Don, L.~Vesterdal, J.~Leifeld, B.~Van~Wesemael, J.~Schumacher,
+  and A.~Gensior. 2011.
+\newblock Temporal dynamics of soil organic carbon after land-use change in the
+  temperate zone--carbon response functions as a model approach.
+\newblock Global Change Biology, {\bf 17}:2415--2427.
+
+\bibitem[{PWMI(2019)}]{pwmi2019}
+PWMI, P. W. M.~I. 2019.
+\newblock An introduction to plastic recycling.
+\newblock \urlprefix\url{https://www.pwmi.or.jp/ei/plastic_recycling_2019.pdf}.
+
+\bibitem[{Qian et~al.(2016)Qian, Peng, Luo, Wu, and Du}]{qian2016urban}
+Qian, J., Y.~Peng, C.~Luo, C.~Wu, and Q.~Du. 2016.
+\newblock Urban land expansion and sustainable land use policy in shenzhen: A
+  case study of china’s rapid urbanization.
+\newblock Sustainability, {\bf 8}:16.
+
+\bibitem[{Qiao et~al.(2018)Qiao, Zhu, Jia, Huang, and Shao}]{qiao2018factors}
+Qiao, J., Y.~Zhu, X.~Jia, L.~Huang, and M.~Shao. 2018.
+\newblock Factors that influence the vertical distribution of soil water
+  content in the critical zone on the loess plateau, china.
+\newblock Vadose Zone Journal, {\bf 17}:1--7.
+
+\bibitem[{Qin et~al.(2019)Qin, Chen, Fang, Zhang, Wang, Liu, Yu, and
+  Yang}]{Qineaau1218}
+Qin, S., L.~Chen, K.~Fang, Q.~Zhang, J.~Wang, F.~Liu, J.~Yu, and Y.~Yang. 2019.
 \newblock Temperature sensitivity of som decomposition governed by aggregate
   protection and microbial communities.
-\newblock \emph{Science Advances}, 5\penalty0 (7), 2019.
-\newblock \doi{10.1126/sciadv.aau1218}.
-\newblock URL \url{https://advances.sciencemag.org/content/5/7/eaau1218}.
+\newblock Science Advances, {\bf 5}.
+\newblock \urlprefix\url{https://advances.sciencemag.org/content/5/7/eaau1218}.
 
-\bibitem[Xie(2021)]{knitr}
-Yihui Xie.
-\newblock \emph{knitr: A General-Purpose Package for Dynamic Report Generation
-  in R}, 2021.
-\newblock URL \url{https://yihui.org/knitr/}.
-\newblock R package version 1.31.
+\bibitem[{Qiu et~al.(2013)Qiu, Yu, Wang, Tian, Tse, and Wong}]{qiu2013season}
+Qiu, H., I.~T.~S. Yu, X.~Wang, L.~Tian, L.~A. Tse, and T.~W. Wong. 2013.
+\newblock Season and humidity dependence of the effects of air pollution on
+  copd hospitalizations in hong kong.
+\newblock Atmospheric environment, {\bf 76}:74--80.
+
+\bibitem[{Ref(Year)}]{REF}
+Ref. Year.
+\newblock {REFERENCE}({S}) {TO} {BE} {ADDED}.
+\newblock .
+
+\bibitem[{Reichert et~al.(2018)Reichert, Schellenberg, Schubert, and
+  Wilke}]{12907334620180601}
+Reichert, J., J.~Schellenberg, P.~Schubert, and T.~Wilke. 2018.
+\newblock Responses of reef building corals to microplastic exposure.
+\newblock Environmental Pollution, {\bf 237}:955 -- 960.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=129073346&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Renaud(1997)}]{970313024119970301}
+Renaud, C. 1997.
+\newblock Coral calamity.
+\newblock Environment, {\bf 39}:23.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=9703130241&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Rodda and Savidge(2007)}]{rodda2007biology}
+Rodda, G.~H. and J.~A. Savidge. 2007.
+\newblock Biology and impacts of pacific island invasive species. 2. boiga
+  irregularis, the brown tree snake (reptilia: Colubridae) 1.
+\newblock Pacific Science, {\bf 61}:307--324.
+
+\bibitem[{Royte(2018)}]{royte_we_2018}
+Royte, E. 2018.
+\newblock We {Know} {Plastic} {Is} {Harming} {Marine} {Life}. {What} {About}
+  {Us}?
+\newblock
+  \urlprefix\url{https://www.nationalgeographic.com/magazine/article/plastic-planet-health-pollution-waste-microplastics}.
+\newblock Section: Magazine.
+
+\bibitem[{Saito(1999)}]{saito_japanese_1999}
+Saito, Y. 1999.
+\newblock Japanese {Aesthetics} of {Packaging}.
+\newblock The Journal of Aesthetics and Art Criticism, {\bf 57}:257--265.
+\newblock \urlprefix\url{https://www.jstor.org/stable/432317}.
+\newblock Publisher: [Wiley, American Society for Aesthetics].
+
+\bibitem[{Salomonson(2015)}]{salomonson}
+Salomonson, V. 2015.
+\newblock Remote sensing, historical perspective.
+\newblock Encyclopedia of Remote Sensing.
+
+\bibitem[{San~Tam et~al.(2015)San~Tam, Wong, and Wong}]{san2015association}
+San~Tam, W.~W., T.~W. Wong, and A.~H. Wong. 2015.
+\newblock Association between air pollution and daily mortality and hospital
+  admission due to ischaemic heart diseases in hong kong.
+\newblock Atmospheric Environment, {\bf 120}:360--368.
+
+\bibitem[{Scott(2018)}]{areef}
+Scott, C. 2018.
+\newblock Artificial reefs: What works and what doesn’t.
+\newblock New Heaven Reef Conservation Program.
+\newblock
+  \urlprefix\url{https://newheavenreefconservation.org/marine-blog/147-artificial-reefs-what-works-and-what-doesn-t}.
+
+\bibitem[{Scott and Isang(2020)}]{scott2020}
+Scott, C. and M.~Isang. 2020.
+\newblock So great, so fragile: Great lakes, lake michigan health depend on
+  keeping invasive species out.
+\newblock abc7 chicago.
+
+\bibitem[{Seekins(2009)}]{seekins2009state}
+Seekins, D. 2009.
+\newblock State, society and natural disaster: cyclone nargis in myanmar
+  (burma).
+\newblock Asian Journal of Social Science, {\bf 37}:717--737.
+
+\bibitem[{Sekiguchi et~al.(1989)Sekiguchi, Shindo, Okabe, Aoyanagi, Furuse, and
+  Oka}]{sekiguchi1989case}
+Sekiguchi, A., G.~Shindo, H.~Okabe, N.~Aoyanagi, A.~Furuse, and T.~Oka. 1989.
+\newblock A case of metastatic lung tumor of the colon cancer with ova of
+  schistosoma japonicum in the resected lung specimen.
+\newblock Kyobu geka. The Japanese journal of thoracic surgery, {\bf
+  42}:1025--1028.
+
+\bibitem[{Seltenrich(2013)}]{seltenrich2013incineration}
+Seltenrich, N. 2013.
+\newblock Incineration versus recycling: In europe, a debate over trash.
+\newblock Retrieved February, {\bf 15}:2015.
+
+\bibitem[{Severnini(2014)}]{severnini2014power}
+Severnini, E. 2014.
+\newblock The power of hydroelectric dams: Agglomeration spillovers.
+
+\bibitem[{Shafir et~al.(2007)Shafir, Van~Rijn, and
+  Rinkevich}]{2615280620070801}
+Shafir, S., J.~Van~Rijn, and B.~Rinkevich. 2007.
+\newblock Short and long term toxicity of crude oil and oil dispersants to two
+  representative coral species.
+\newblock Environmental Science \& Technology, {\bf 41}:5571 -- 5574.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=26152806&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Sharma et~al.(2019)Sharma, Kumar, Thukral, and
+  Bhardwaj}]{sharma2019responses}
+Sharma, A., V.~Kumar, A.~Thukral, and R.~Bhardwaj. 2019.
+\newblock Responses of plants to pesticide toxicity: An overview.
+\newblock Planta Daninha, {\bf 37}.
+
+\bibitem[{Sharp and SharpReporter@5thEstate(2019)}]{sharp_2019}
+Sharp, B. and J.~t. .~M. SharpReporter@5thEstate. 2019.
+\newblock What you should know about the circular economy.
+\newblock
+  \urlprefix\url{https://www.nationalobserver.com/2019/06/17/news/what-you-should-know-about-circular-economy}.
+
+\bibitem[{Shi et~al.(1990)Shi, Jiang, Han, Li, and Ruppel}]{shi1990schistosoma}
+Shi, Y.-e., C.-F. Jiang, J.-J. Han, Y.-L. Li, and A.~Ruppel. 1990.
+\newblock Schistosoma japonicum: an ultraviolet-attenuated cercarial vaccine
+  applicable in the field for water buffaloes.
+\newblock Experimental parasitology, {\bf 71}:100--106.
+
+\bibitem[{Shi et~al.(2012)Shi, Fang, Wu, Wang, Yue, and Wu}]{shi2012soil}
+Shi, Z., N.~Fang, F.~Wu, L.~Wang, B.~Yue, and G.~Wu. 2012.
+\newblock Soil erosion processes and sediment sorting associated with transport
+  mechanisms on steep slopes.
+\newblock Journal of Hydrology, {\bf 454}:123--130.
+
+\bibitem[{Sinay and Carter(2020)}]{Sinay_2020}
+Sinay, L. and R.~W.~B. Carter. 2020.
+\newblock Climate change adaptation options for coastal communities and local
+  governments.
+\newblock Climate, {\bf 8}:7.
+\newblock \urlprefix\url{http://dx.doi.org/10.3390/cli8010007}.
+
+\bibitem[{Siniawer(2014)}]{siniawer2014affluence}
+Siniawer, E.~M. 2014.
+\newblock `` affluence of the heart'': Wastefulness and the search for meaning
+  in millennial japan.
+\newblock The Journal of Asian Studies, pages 165--186.
+
+\bibitem[{Sinnarong et~al.(2019)Sinnarong, Chen, McCarl, and
+  Tran}]{sinnarong2019estimating}
+Sinnarong, N., C.-C. Chen, B.~McCarl, and B.-L. Tran. 2019.
+\newblock Estimating the potential effects of climate change on rice production
+  in thailand.
+\newblock Paddy and Water Environment, {\bf 17}:761--769.
+
+\bibitem[{Siok-Hwa(2012)}]{siok2012rice}
+Siok-Hwa, C. 2012.
+\newblock The Rice Industry of Burma, 1852-1940:(First Reprint 2012).
+\newblock Institute of Southeast Asian Studies.
+
+\bibitem[{Smith(2018)}]{Smith}
+Smith, K.~N. 2018.
+\newblock Everything we know about the isolated sentinelese people of north
+  sentinel island.
+\newblock Forbes.
+\newblock
+  \urlprefix\url{https://www.forbes.com/sites/kionasmith/2018/11/30/everything-we-know-about-the-isolated-sentinelese-people-of-north-sentinel-island/}.
+
+\bibitem[{Smith(1991)}]{smith1991burma}
+Smith, M. 1991.
+\newblock Burma: Insurgency and the politics of ethnicity.
+\newblock Zed Books.
+
+\bibitem[{So(2011)}]{so2011development}
+So, A.~Y. 2011.
+\newblock The development of post-modernist social movements in the hong kong
+  special administrative region.
+\newblock In East Asian social movements, pages 365--378. Springer.
+
+\bibitem[{Solow et~al.(1993)Solow, Polasky, and Broadus}]{solow1993measurement}
+Solow, A., S.~Polasky, and J.~Broadus. 1993.
+\newblock On the measurement of biological diversity.
+\newblock Climate, {\bf 24}:60--68.
+
+\bibitem[{Spaldin et~al.(2001)Spaldin, Ravilious, and Green}]{Watlas}
+Spaldin, M., C.~Ravilious, and E.~Green. 2001.
+\newblock World Atlas of Coral Reefs, volume~3.
+\newblock
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
+
+\bibitem[{Spalding et~al.(2017)Spalding, Burke, A.Wood, Ashpole, Hutchisone,
+  and Ermgassen}]{reeftourism}
+Spalding, M., L.~Burke, S.~A.Wood, J.~Ashpole, J.~Hutchisone, and P.~Ermgassen.
+  2017.
+\newblock Mapping the global value and distribution of coral reef tourism.
+\newblock Marine Policy, {\bf 82}:104--113.
+
+\bibitem[{Sprenger et~al.(2019)Sprenger, Stumpp, Weiler, Aeschbach, Allen,
+  Benettin, Dubbert, Hartmann, Hrachowitz, Kirchner
+  et~al.}]{sprenger2019demographics}
+Sprenger, M., C.~Stumpp, M.~Weiler, W.~Aeschbach, S.~T. Allen, P.~Benettin,
+  M.~Dubbert, A.~Hartmann, M.~Hrachowitz, J.~W. Kirchner, et~al. 2019.
+\newblock The demographics of water: A review of water ages in the critical
+  zone.
+\newblock Reviews of Geophysics, {\bf 57}:800--834.
+
+\bibitem[{Staff(2019)}]{nippon2019}
+Staff, N. 2019.
+\newblock Chinese {Ban} {Leaves} {Plastic} {Waste} with {Nowhere} to {Go}.
+\newblock
+  \urlprefix\url{https://www.nippon.com/en/japan-data/h00473/chinese-ban-leaves-plastic-waste-with-nowhere-to-go.html}.
+
+\bibitem[{Staff(2021)}]{staff2021}
+Staff, R. 2021.
+\newblock Malaysia sends back over 300 containers of illicit plastic waste.
+\newblock Reuters.
+\newblock
+  \urlprefix\url{https://www.reuters.com/article/malaysia-environment-plastic-idINKBN2BT29I}.
+
+\bibitem[{Stephenson and Black(2014)}]{stephenson2014one}
+Stephenson, C. and C.~R. Black. 2014.
+\newblock One step forward, two steps back: the evolution of phytoremediation
+  into commercial technologies.
+\newblock Bioscience Horizons: The International Journal of Student Research,
+  {\bf 7}.
+
+\bibitem[{Stern(2003)}]{stern2003hong}
+Stern, R.~E. 2003.
+\newblock Hong kong haze: air pollution as a social class issue.
+\newblock Asian Survey, {\bf 43}:780--800.
+
+\bibitem[{Sturmer(2018)}]{sturmer2018}
+Sturmer, J. 2018.
+\newblock Osaka rubbish incinerator maishima looks like disneyland but is part
+  of japan's waste strategy.
+
+\bibitem[{Suggett and Smith(2020)}]{https://doi.org/10.1111/gcb.14871}
+Suggett, D.~J. and D.~J. Smith. 2020.
+\newblock Coral bleaching patterns are the outcome of complex biological and
+  environmental networking.
+\newblock Global Change Biology, {\bf 26}:68--79.
+\newblock
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14871}.
+
+\bibitem[{Sun et~al.(2020)Sun, Shahrajabian, Khoshkharam, and
+  Cheng}]{sun2020adaptation}
+Sun, W., M.~H. Shahrajabian, M.~Khoshkharam, and Q.~Cheng. 2020.
+\newblock Adaptation of acupuncture and traditional chinese herbal medicines
+  models because of climate change.
+\newblock Journal of Stress Physiology \& Biochemistry, {\bf 16}.
+
+\bibitem[{Suong et~al.(2019)Suong, Chapuis, Leng, Tivet, De~Waele, Nguyen~Thi,
+  and Bellafiore}]{suong2019impact}
+Suong, M., E.~Chapuis, V.~Leng, F.~Tivet, D.~De~Waele, H.~Nguyen~Thi, and
+  S.~Bellafiore. 2019.
+\newblock Impact of a conservation agriculture system on soil characteristics,
+  rice yield, and root-parasitic nematodes in a cambodian lowland rice field.
+
+\bibitem[{Supeck(2019)}]{supeck_2019}
+Supeck. 2019.
+\newblock The history of the septic system.
+\newblock
+  \urlprefix\url{https://supeckseptic.com/blog/the-history-of-the-septic-system/#:~:text=Jean%2DLouis%20Mouras%20invented%20the,emptied%20from%20time%20to%20time.}
+
+\bibitem[{Syvitski et~al.(2009)Syvitski, Kettner, Overeem, Hutton, Hannon,
+  Brakenridge, Day, V{\"o}r{\"o}smarty, Saito, Giosan
+  et~al.}]{syvitski2009sinking}
+Syvitski, J.~P., A.~J. Kettner, I.~Overeem, E.~W. Hutton, M.~T. Hannon, G.~R.
+  Brakenridge, J.~Day, C.~V{\"o}r{\"o}smarty, Y.~Saito, L.~Giosan, et~al. 2009.
+\newblock Sinking deltas due to human activities.
+\newblock Nature Geoscience, {\bf 2}:681--686.
+
+\bibitem[{Taguchi(2013)}]{taguchi2013environmental}
+Taguchi, H. 2013.
+\newblock The environmental kuznets curve in asia: The case of sulphur and
+  carbon emissions.
+\newblock Asia-Pacific Development Journal, {\bf 19}:77--92.
+
+\bibitem[{Tait et~al.(2020)Tait, Brew, Che, Costanzo, Danyluk, Davis, Khalaf,
+  McMahon, Watson, Rowcliff, and Bowles}]{tait_health_2020}
+Tait, P.~W., J.~Brew, A.~Che, A.~Costanzo, A.~Danyluk, M.~Davis, A.~Khalaf,
+  K.~McMahon, A.~Watson, K.~Rowcliff, and D.~Bowles. 2020.
+\newblock The health impacts of waste incineration: a systematic review.
+\newblock Australian and New Zealand Journal of Public Health, {\bf 44}:40--48.
+\newblock
+  \urlprefix\url{http://onlinelibrary.wiley.com/doi/abs/10.1111/1753-6405.12939}.
+\newblock \_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1111/1753-6405.12939.
+
+\bibitem[{Tang(2017)}]{tang2017distribution}
+Tang, B.-s. 2017.
+\newblock Is the distribution of public open space in hong kong equitable, why
+  not?
+\newblock Landscape and Urban Planning, {\bf 161}:80--89.
+
+\bibitem[{Thao et~al.(2019)Thao, Khoi, Xuan, and Tychon}]{thao2019assessment}
+Thao, N. T.~T., D.~N. Khoi, T.~T. Xuan, and B.~Tychon. 2019.
+\newblock Assessment of livelihood vulnerability to drought: A case study in
+  dak nong province, vietnam.
+\newblock International Journal of Disaster Risk Science, {\bf 10}:604--615.
+
+\bibitem[{Thompson(2018)}]{Thompson}
+Thompson, A. 2018.
+\newblock Where plastic goes, coral disease follows.
+\newblock Scientific American.
+\newblock
+  \urlprefix\url{https://www.scientificamerican.com/article/where-plastic-goes-coral-disease-follows/}.
+
+\bibitem[{Thompson and Goyne(2012)}]{thompsonsorption}
+Thompson, A. and K.~Goyne. 2012.
+\newblock Introduction to the sorption of chemical constituents in soils.
+\newblock The Nature Education, {\bf 4}.
+\newblock
+  \urlprefix\url{https://www.nature.com/scitable/knowledge/library/introduction-to-the-sorption-of-chemical-constituents-94841002/}.
+
+\bibitem[{Thorin(2014)}]{thorin2014basics}
+Thorin, E. 2014.
+\newblock Basics of energy.
+
+\bibitem[{Thuy et~al.(2012)Thuy, Van~Geluwe, Nguyen, and Van~der
+  Bruggen}]{thuy2012current}
+Thuy, P.~T., S.~Van~Geluwe, V.-A. Nguyen, and B.~Van~der Bruggen. 2012.
+\newblock Current pesticide practices and environmental issues in vietnam:
+  management challenges for sustainable use of pesticides for tropical crops in
+  (south-east) asia to avoid environmental pollution.
+\newblock Journal of Material Cycles and Waste Management, {\bf 14}:379--387.
+
+\bibitem[{Todd et~al.(2010)Todd, Xueyuan, and Loke~Ming}]{4884777420100401}
+Todd, P.~A., O.~Xueyuan, and C.~Loke~Ming. 2010.
+\newblock Impacts of pollution on marine life in southeast asia.
+\newblock Biodiversity \& Conservation, {\bf 19}:1063 -- 1082.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com.ccl.idm.oclc.org/login.aspx?direct=true&AuthType=sso&db=8gh&AN=48847774&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Trang(2004)}]{trang2004local}
+Trang, T. T.~T. 2004.
+\newblock Local politics and democracy in a muong ethnic community.
+\newblock Beyond Hanoi. Local Government in Vietnam, pages 137--166.
+
+\bibitem[{Tsai(1993)}]{tsai1993hong}
+Tsai, J.-f. 1993.
+\newblock Hong Kong in Chinese history: community and social unrest in the
+  British Colony, 1842-1913.
+\newblock Columbia University Press.
+
+\bibitem[{Tsang(2003)}]{tsang2003modern}
+Tsang, S. 2003.
+\newblock A modern history of Hong Kong: 1841-1997.
+\newblock Bloomsbury Publishing.
+
+\bibitem[{Tseng et~al.(2013)Tseng, Wang, and Duh}]{Tseng_2013}
+Tseng, Y.-J., S.-K. Wang, and C.-Y. Duh. 2013.
+\newblock Secosteroids and norcembranoids from the soft coral sinularia
+  nanolobata.
+\newblock Marine Drugs, {\bf 11}:3288–3296.
+\newblock \urlprefix\url{http://dx.doi.org/10.3390/md11093288}.
+
+\bibitem[{Tuo et~al.(2018{\natexlab{{\em a\/}}})Tuo, Gao, Chang, Li, Ma, Wang,
+  Wang, and Fu}]{tuo2018effects}
+Tuo, D., G.~Gao, R.~Chang, Z.~Li, Y.~Ma, S.~Wang, C.~Wang, and B.~Fu.
+  2018{\natexlab{{\em a\/}}}.
+\newblock Effects of revegetation and precipitation gradient on soil carbon and
+  nitrogen variations in deep profiles on the loess plateau of china.
+\newblock Science of the Total Environment, {\bf 626}:399--411.
+
+\bibitem[{Tuo et~al.(2018{\natexlab{{\em b\/}}})Tuo, Xu, and
+  Gao}]{tuo2018relative}
+Tuo, D., M.~Xu, and G.~Gao. 2018{\natexlab{{\em b\/}}}.
+\newblock Relative contributions of wind and water erosion to total soil loss
+  and its effect on soil properties in sloping croplands of the chinese loess
+  plateau.
+\newblock Science of the total environment, {\bf 633}:1032--1040.
+
+\bibitem[{UN(????{\natexlab{{\em a\/}}})}]{un}
+UN. ????{\natexlab{{\em a\/}}}.
+\newblock The dublin principles on water and the environment.
+\newblock
+  \urlprefix\url{http://www.futurelearn.com/info/courses/sustainability-society-and-you/0/steps/4626.}
+
+\bibitem[{UN(????{\natexlab{{\em b\/}}})}]{UNpopulation}
+UN. ????{\natexlab{{\em b\/}}}.
+\newblock Growing at a slower pace, world population is expected to reach 9.7
+  billion in 2050 and could peak at nearly 11 billion around 2100 | un desa
+  department of economic and social affairs.
+
+\bibitem[{UN(????{\natexlab{{\em c\/}}})}]{united_nations}
+UN. ????{\natexlab{{\em c\/}}}.
+\newblock Quality and wastewater: Un-water.
+\newblock
+  \urlprefix\url{https://www.unwater.org/water-facts/quality-and-wastewater/#:~:text=Challenges%20and%20opportunities&amp;text=The%20availability%20of%20safe%20and,water%20resources%20around%20the%20world.}
+
+\bibitem[{University(????{\natexlab{{\em a\/}}})}]{cornell_soils}
+University, C. ????{\natexlab{{\em a\/}}}.
+\newblock Soil forming processes vs. factors.
+\newblock Crop and Soil Sciences Department.
+\newblock
+  \urlprefix\url{http://www.css.cornell.edu/courses/260/Soil%20Forming%20Processes.pdf}.
+
+\bibitem[{University(2019)}]{humboldt}
+University, H.~S. 2019.
+\newblock History of remote sensing.
+\newblock
+  \urlprefix\url{http://gis.humboldt.edu/OLM/Courses/GSP_216_Online/lesson1-1/history.html#:
+  :text=Aerial%20photography%20is%20the%20earliest,by%20French%20inventor%20Nic%C3%A9phore%20Ni%C3%A9pce.}
+
+\bibitem[{University(????{\natexlab{{\em b\/}}})}]{purdue}
+University, P. ????{\natexlab{{\em b\/}}}.
+\newblock On-site wastewater disposal and public health.
+
+\bibitem[{US~EPA(2017{\natexlab{{\em a\/}}})}]{epa}
+US~EPA, a. 2017{\natexlab{{\em a\/}}}.
+\newblock What is endocrine disruption.
+\newblock
+  \urlprefix\url{file:///Users/eleanordunn/Zotero/storage/PZW8MWRE/what-endocrine-disruption.html}.
+
+\bibitem[{US~EPA(2017{\natexlab{{\em b\/}}})}]{USEPA_2017}
+US~EPA, O. 2017{\natexlab{{\em b\/}}}.
+\newblock Threats to coral reefs.
+\newblock \urlprefix\url{https://www.epa.gov/coral-reefs/threats-coral-reefs}.
+
+\bibitem[{USBR(2020)}]{usbr}
+USBR. 2020.
+\newblock
+  \urlprefix\url{https://search.usa.gov/search?affiliate=Reclamation&query=hydropower}.
+
+\bibitem[{USGS(????)}]{usgs}
+USGS. ????
+\newblock
+  \urlprefix\url{http://www.usgs.gov/special-topic/water-science-school/science/a-visit-a-wastewater-treatment-plant?qt-science_center_objects=0#qt-science_center_objects.}
+
+\bibitem[{Usta(2013)}]{usta2013microorganisms}
+Usta, C. 2013.
+\newblock Microorganisms in biological pest control—a review (bacterial toxin
+  application and effect of environmental factors).
+\newblock In Current progress in biological research, pages 287--317. InTech
+  Rijeka.
+
+\bibitem[{Vachaud et~al.(2019)Vachaud, Quertamp, Phan, Ngoc, Nguyen, Luu,
+  Nguyen, and Gratiot}]{vachaud2019flood}
+Vachaud, G., F.~Quertamp, T.~S.~H. Phan, T.~D.~T. Ngoc, T.~Nguyen, X.~L. Luu,
+  A.~T. Nguyen, and N.~Gratiot. 2019.
+\newblock Flood-related risks in ho chi minh city and ways of mitigation.
+\newblock Journal of Hydrology, {\bf 573}:1021--1027.
+
+\bibitem[{Valera(2014)}]{valera2014sea}
+Valera, S. 2014.
+\newblock The sea washed it away.
+
+\bibitem[{Van~Ruijven et~al.(2012)Van~Ruijven, Schers, and van
+  Vuuren}]{van2012model}
+Van~Ruijven, B.~J., J.~Schers, and D.~P. van Vuuren. 2012.
+\newblock Model-based scenarios for rural electrification in developing
+  countries.
+\newblock Energy, {\bf 38}:386--397.
+
+\bibitem[{Ventura(2016)}]{ventura2016small}
+Ventura, T. 2016.
+\newblock From small farms to progressive plantations: the trajectory of land
+  reform in the american colonial philippines, 1900--1916.
+\newblock Agricultural History, {\bf 90}:459--483.
+
+\bibitem[{Verjee(2019)}]{verjee2019schistosomiasis}
+Verjee, M.~A. 2019.
+\newblock Schistosomiasis: Still a cause of significant morbidity and
+  mortality.
+\newblock Research and reports in tropical medicine, {\bf 10}:153.
+
+\bibitem[{Viet.gov(2021)}]{daknong}
+Viet.gov. 2021.
+\newblock About daknong.
+\newblock
+  \urlprefix\url{https://daknong.gov.vn/vi/web/dak-nong-english/about-daknong/-/view_content/284279-natural-resource.html}.
+
+\bibitem[{Vincent et~al.(2007)Vincent, Goettel, and
+  Lazarovits}]{vincent2007biological}
+Vincent, C., M.~S. Goettel, and G.~Lazarovits. 2007.
+\newblock Biological control: a global perspective: case studies from around
+  the world.
+\newblock Cabi.
+
+\bibitem[{Vinh et~al.(2014)Vinh, Ouillon, Thanh, and Chu}]{vinh2014impact}
+Vinh, V., S.~Ouillon, T.~Thanh, and L.~Chu. 2014.
+\newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
+  the red river basin and delta.
+\newblock Hydrology and Earth System Sciences, {\bf 18}:3987--4005.
+
+\bibitem[{Vu et~al.(2014)Vu, Ouillon, Tran, and La}]{vu2014impact}
+Vu, D., S.~Ouillon, D.~Tran, and V.~La. 2014.
+\newblock Impact of the hoa binh dam (vietnam) on water and sediment budgets in
+  the red river basin and delta.
+\newblock Hydrology \& Earth System Sciences Discussions, {\bf 11}.
+
+\bibitem[{Waldstein(1997)}]{waldstein1997schistosoma}
+Waldstein, A. 1997.
+\newblock Schistosoma japonicum infection: A hidden cost of china's three
+  gorges dam?
+\newblock Journal of Ecological Anthropology, {\bf 1}:36--41.
+
+\bibitem[{Wang and Bryant(2003)}]{wang2003three}
+Wang, R. and S.~Bryant. 2003.
+\newblock The three gorges dam.
+\newblock Water environment \& technology, {\bf 15}:28--33.
+
+\bibitem[{Wang et~al.(2016)Wang, Fu, Piao, L{\"u}, Ciais, Feng, and
+  Wang}]{wang2016reduced}
+Wang, S., B.~Fu, S.~Piao, Y.~L{\"u}, P.~Ciais, X.~Feng, and Y.~Wang. 2016.
+\newblock Reduced sediment transport in the yellow river due to anthropogenic
+  changes.
+\newblock Nature Geoscience, {\bf 9}:38--41.
+
+\bibitem[{Warren(2018)}]{warren2018typhoons}
+Warren, J.~F. 2018.
+\newblock Typhoons and droughts: Food shortages and famine in the philippines
+  since the seventeenth century.
+\newblock International Review of Environmental History, {\bf 4}:27--44.
+
+\bibitem[{Wassmann et~al.(2004)Wassmann, Hien, Hoanh, and
+  Tuong}]{wassmann2004sea}
+Wassmann, R., N.~X. Hien, C.~T. Hoanh, and T.~P. Tuong. 2004.
+\newblock Sea level rise affecting the vietnamese mekong delta: water elevation
+  in the flood season and implications for rice production.
+\newblock Climatic Change, {\bf 66}:89--107.
+
+\bibitem[{Watson(2016)}]{watson_can_2016}
+Watson, B. 2016.
+\newblock Can incineration and landfills save us from the recycling crisis?
+\newblock
+  \urlprefix\url{http://www.theguardian.com/sustainable-business/2016/jun/14/green-waste-distribution-methods-recycling-plastic-oil-epa}.
+\newblock Section: Guardian Sustainable Business.
+
+\bibitem[{WCD(2000)}]{world2000dams}
+WCD. 2000.
+\newblock World Commission on Dams--Dams and development: A new framework for
+  decision-making: The report of the world commission on dams.
+\newblock Earthscan.
+
+\bibitem[{Weeks et~al.(2010)Weeks, Russ, Alcala, and White}]{10.2307/40603378}
+Weeks, R., G.~R. Russ, A.~C. Alcala, and A.~T. White. 2010.
+\newblock Effectiveness of marine protected areas in the philippines for
+  biodiversity conservation.
+\newblock Conservation Biology, {\bf 24}:531--540.
+\newblock \urlprefix\url{http://www.jstor.org/stable/40603378}.
+
+\bibitem[{Wei et~al.(1989)Wei, Wang, Xingjian, Liu, Yi, and
+  Zheng}]{wei1989investigation}
+Wei, F., R.~Wang, X.~Xingjian, J.~Liu, F.~Yi, and J.~Zheng. 1989.
+\newblock Investigation on import way of schistosomiasis and oncomelania snails
+  in three gorges reservoir areas.
+\newblock Chinese Journal of Schistosomiasis Control.
+
+\bibitem[{Wei et~al.(2009)Wei, Shao, Fu, Horton, Li, and
+  Zhang}]{wei2009distribution}
+Wei, X., M.~Shao, X.~Fu, R.~Horton, Y.~Li, and X.~Zhang. 2009.
+\newblock Distribution of soil organic c, n and p in three adjacent land use
+  patterns in the northern loess plateau, china.
+\newblock Biogeochemistry, {\bf 96}:149--162.
+
+\bibitem[{Wenxiang et~al.(2006)Wenxiang, Zhijie, Yibiao, Jianlin, Yingjie, and
+  Qingwu}]{wenxiang2006index}
+Wenxiang, P., Z.~Zhijie, Z.~Yibiao, Z.~Jianlin, Z.~Yingjie, and J.~Qingwu.
+  2006.
+\newblock Index of air temperature for predicting the distribution of
+  oncomelania snails [j].
+\newblock Chinese Journal of Schistosomiasis Control, {\bf 3}.
+
+\bibitem[{Westoby et~al.(2020)Westoby, Becken, Laria, and
+  Prieto}]{14551496520201201}
+Westoby, R., S.~Becken, A.~Laria, and Prieto. 2020.
+\newblock Perspectives on the human dimensions of coral restoration.
+\newblock Regional Environmental Change, {\bf 20}.
+\newblock
+  \urlprefix\url{http://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=8gh&AN=145514965&site=ehost-live&scope=site&custid=s8438901}.
+
+\bibitem[{Wetlands(2019)}]{wetlands_2019}
+Wetlands. 2019.
+\newblock Floating villages and the handypod.
+\newblock
+  \urlprefix\url{https://wetlandswork.com/products-and-services/sanitation-in-challenging-environments/handy-pods/}.
+
+\bibitem[{Whitelaw(2018)}]{whitelaw_konbini-nation_2018}
+Whitelaw, G. 2018.
+\newblock Konbini-{Nation}: {The} {Rise} of the {Convenience} {Store} in
+  {Post}-{Industrial} {Japan}.
+\newblock In Consuming {Life} in {Post}-{Bubble} {Japan}, pages 69--88.
+\newblock Journal Abbreviation: Consuming Life in Post-Bubble Japan.
+
+\bibitem[{WHO(????)}]{who}
+WHO. ????
+\newblock 2.1 billion people lack safe drinking water at home, more than twice
+  as many lack safe sanitation.
+\newblock
+  \urlprefix\url{https://www.who.int/news/item/12-07-2017-2-1-billion-people-lack-safe-drinking-water-at-home-more-than-twice-as-many-lack-safe-sanitation}.
+
+\bibitem[{Whyte(2018)}]{whyte2018indigenous}
+Whyte, K.~P. 2018.
+\newblock Indigenous science (fiction) for the anthropocene: Ancestral
+  dystopias and fantasies of climate change crises.
+\newblock Environment and Planning E: Nature and Space, {\bf 1}:224--242.
+
+\bibitem[{wilkie(????)}]{wilkie}
+wilkie. ????
+\newblock Frequently asked questions (biogas faq).
+\newblock \urlprefix\url{https://biogas.ifas.ufl.edu/FAQ.asp}.
+
+\bibitem[{Williams and Dubash(2004)}]{williams2004asian}
+Williams, J.~H. and N.~K. Dubash. 2004.
+\newblock Asian electricity reform in historical perspective.
+\newblock Pacific Affairs, pages 411--436.
+
+\bibitem[{Williams et~al.(2007)Williams, Coles, and
+  Primavera}]{williams2007lesson}
+Williams, M.~J., R.~Coles, and J.~H. Primavera. 2007.
+\newblock A lesson from cyclone larry: An untold story of the success of good
+  coastal planning.
+\newblock Estuarine, Coastal and Shelf Science, {\bf 71}:364--367.
+
+\bibitem[{Wilmsen(2018)}]{wilmsen2018damming}
+Wilmsen, B. 2018.
+\newblock Damming china’s rivers to expand its cities: the urban livelihoods
+  of rural people displaced by the three gorges dam.
+\newblock Urban Geography, {\bf 39}:345--366.
+
+\bibitem[{Wong et~al.(2008)Wong, Ou, Chan, Chau, Thach, Yang, Chung, Thomas,
+  Peiris, Wong et~al.}]{wong2008effects}
+Wong, C.-M., C.-Q. Ou, K.-P. Chan, Y.-K. Chau, T.-Q. Thach, L.~Yang, R.~Y.-N.
+  Chung, G.~N. Thomas, J.~S.~M. Peiris, T.-W. Wong, et~al. 2008.
+\newblock The effects of air pollution on mortality in socially deprived urban
+  areas in hong kong, china.
+\newblock Environmental health perspectives, {\bf 116}:1189--1194.
+
+\bibitem[{Wong(2018)}]{wong2018}
+Wong, M. 2018.
+\newblock Why the wealth gap? hong kong’s disparity between rich and poor is
+  greatest in 45 years, so what can be done?
+\newblock
+  \urlprefix\url{https://www.scmp.com/news/hong-kong/society/article/2165872/why-wealth-gap-hong-kongs-disparity-between-rich-and-poor}.
+
+\bibitem[{Wong et~al.(2019)Wong, Lai, Allen, Cheng, Lee, Tsui, Tang, Thach,
+  Tian, Brauer et~al.}]{wong2019vertical}
+Wong, P.~P., P.-C. Lai, R.~Allen, W.~Cheng, M.~Lee, A.~Tsui, R.~Tang, T.-Q.
+  Thach, L.~Tian, M.~Brauer, et~al. 2019.
+\newblock Vertical monitoring of traffic-related air pollution (trap) in urban
+  street canyons of hong kong.
+\newblock Science of the total environment, {\bf 670}:696--703.
+
+\bibitem[{Wong et~al.(1999)Wong, Lau, Yu, Neller, Wong, Tam, and
+  Pang}]{wong1999air}
+Wong, T.~W., T.~S. Lau, T.~S. Yu, A.~Neller, S.~L. Wong, W.~Tam, and S.~W.
+  Pang. 1999.
+\newblock Air pollution and hospital admissions for respiratory and
+  cardiovascular diseases in hong kong.
+\newblock Occupational and environmental medicine, {\bf 56}:679--683.
+
+\bibitem[{World~Bank(2018)}]{worldbank}
+World~Bank, o. 2018.
+\newblock Urban population {J}apan.
+\newblock
+  \urlprefix\url{https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=JP}.
+
+\bibitem[{worldometer(2021)}]{worldometer}
+worldometer, s. 2021.
+\newblock Largest countries in the world.
+\newblock
+  \urlprefix\url{https://www.worldometers.info/geography/largest-countries-in-the-world/}.
+
+\bibitem[{WRI(2015)}]{wri_2015}
+WRI. 2015.
+\newblock Chinese cities begin turning sludge into energy.
+\newblock
+  \urlprefix\url{https://www.wri.org/outcomes/chinese-cities-begin-turning-sludge-energy#:~:text=Sludge-to-energy
+  systems are,gas – all while saving money.}
+
+\bibitem[{Wu et~al.(2005)Wu, Zhou, and Xiao}]{wu2005comprehensive}
+Wu, C., X.~Zhou, and B.~Xiao. 2005.
+\newblock A comprehensive summary of the relationship between the ecological
+  changes in the construction of the three gorges dam and the transmission of
+  s. japonicum.
+\newblock Parasit Dis Foreign Med Sciences, {\bf 32}:224--8.
+
+\bibitem[{Xia and Shao(2005)}]{xia2005modelling}
+Xia, L. and Y.~Shao. 2005.
+\newblock Modelling of traffic flow and air pollution emission with application
+  to hong kong island.
+\newblock Environmental Modelling and Software, {\bf 20}:1175--1188.
+
+\bibitem[{Xiao et~al.(2019)Xiao, Chevallier, Gomez, Guanter, Hicke, Huete,
+  Ichii, Ni, Pang, Rahman et~al.}]{xiao2019remote}
+Xiao, J., F.~Chevallier, C.~Gomez, L.~Guanter, J.~A. Hicke, A.~R. Huete,
+  K.~Ichii, W.~Ni, Y.~Pang, A.~F. Rahman, et~al. 2019.
+\newblock Remote sensing of the terrestrial carbon cycle: A review of advances
+  over 50 years.
+\newblock Remote Sensing of Environment, {\bf 233}:111383.
+
+\bibitem[{Xiong et~al.(2017)Xiong, Ling, Huang, and Peng}]{xiong2017meta}
+Xiong, D., X.~Ling, J.~Huang, and S.~Peng. 2017.
+\newblock Meta-analysis and dose-response analysis of high temperature effects
+  on rice yield and quality.
+\newblock Environmental and Experimental Botany, {\bf 141}:1--9.
+
+\bibitem[{Xu et~al.(2011)Xu, Tan, Yang, Li, and Su}]{xu2011impacts}
+Xu, X., Y.~Tan, G.~Yang, H.~Li, and W.~Su. 2011.
+\newblock Impacts of china's three gorges dam project on net primary
+  productivity in the reservoir area.
+\newblock Science of the Total Environment, {\bf 409}:4656--4662.
+
+\bibitem[{Yaguchi et~al.(2007)Yaguchi, Sonobe, and Otsuka}]{yaguchi2007beyond}
+Yaguchi, Y., T.~Sonobe, and K.~Otsuka. 2007.
+\newblock Beyond the environmental kuznets curve: a comparative study of so₂
+  and co₂ emissions between japan and china.
+\newblock Environment and Development Economics, pages 445--470.
+
+\bibitem[{Yamamoto et~al.(2015)Yamamoto, Kudo, Arito, Ogawa, and
+  Takata}]{yamamoto2015}
+Yamamoto, K., M.~Kudo, H.~Arito, Y.~Ogawa, and T.~Takata. 2015.
+\newblock A cross-sectional analysis of dioxins and health effects in municipal
+  and private waste incinerator workers in {Japan}.
+\newblock Industrial Health, {\bf 53}:465--479.
+\newblock
+  \urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591139/}.
+
+\bibitem[{Yarina(2018)}]{yarina2018}
+Yarina, L. 2018.
+\newblock Your sea wall won't save you.
+\newblock
+  \urlprefix\url{https://placesjournal.org/article/your-sea-wall-wont-save-you/?cn-reloaded=1}.
+
+\bibitem[{Yiu(2017)}]{yiu2017}
+Yiu, P. 2017.
+\newblock Hong kong wealth gap at its widest in decades as handover anniversary
+  nears.
+\newblock
+  \urlprefix\url{https://www.reuters.com/article/us-hongkong-anniversary-wealth-gap/hong-kong-wealth-gap-at-its-widest-in-decades-as-handover-anniversary-nears-idUSKBN19I1E2}.
+
+\bibitem[{Zhang et~al.(2017)Zhang, Karnauskas, Donnelly, and
+  Emanuel}]{zhang2017response}
+Zhang, L., K.~B. Karnauskas, J.~P. Donnelly, and K.~Emanuel. 2017.
+\newblock Response of the north pacific tropical cyclone climatology to global
+  warming: Application of dynamical downscaling to cmip5 models.
+\newblock Journal of Climate, {\bf 30}:1233--1243.
+
+\bibitem[{Zhang et~al.(2021)Zhang, Gregory, Whalley, Ren, and
+  Gao}]{zhang2021characteristics}
+Zhang, W., A.~S. Gregory, W.~R. Whalley, T.~Ren, and W.~Gao. 2021.
+\newblock Characteristics of soil organic matter within an erosional landscape
+  under agriculture in northeast china: stock, source, and thermal stability.
+\newblock Soil and Tillage Research, {\bf 209}:104927.
+
+\bibitem[{Zhao et~al.(2015)Zhao, Klik, Mu, Wang, Gao, and
+  Sun}]{zhao2015sediment}
+Zhao, G., A.~Klik, X.~Mu, F.~Wang, P.~Gao, and W.~Sun. 2015.
+\newblock Sediment yield estimation in a small watershed on the northern loess
+  plateau, china.
+\newblock Geomorphology, {\bf 241}:343--352.
+
+\bibitem[{Zhao and Zhang(2005)}]{zhao2005economic}
+Zhao, S.~X. and L.~Zhang. 2005.
+\newblock Economic growth and income inequality in hong kong: Trends and
+  explanations.
+\newblock China: An International Journal, {\bf 3}:74--103.
+
+\bibitem[{Zhou et~al.(2007)Zhou, Guo, Wu, Jiang, Zheng, Dang, Wang, Xu, Zhu, Wu
+  et~al.}]{zhou2007epidemiology}
+Zhou, X.-N., J.-G. Guo, X.-H. Wu, Q.-W. Jiang, J.~Zheng, H.~Dang, X.-H. Wang,
+  J.~Xu, H.-Q. Zhu, G.-L. Wu, et~al. 2007.
+\newblock Epidemiology of schistosomiasis in the people’s republic of china,
+  2004.
+\newblock Emerging infectious diseases, {\bf 13}:1470.
+
+\bibitem[{Zhu et~al.(2008)Zhu, Xiang, Yang, Wu, and Zhou}]{zhu2008three}
+Zhu, H.-M., S.~Xiang, K.~Yang, X.-H. Wu, and X.-N. Zhou. 2008.
+\newblock Three gorges dam and its impact on the potential transmission of
+  schistosomiasis in regions along the yangtze river.
+\newblock Ecohealth, {\bf 5}:137--148.
 
 \end{thebibliography}
